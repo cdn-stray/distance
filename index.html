@@ -172,9 +172,10 @@
 	        var month = date.getMonth()+1;
 	        var day = date.getDate();
 	        var week = weekDay[date.getDay()];
-	        $("#mytime").html(year+"年"+month+"月"+day+"日");
+	        $("#mytime").html(year+"-"+month+"-"+day+");
        });
 </script>
+<script src="https://cdn-vercel.jxjson.cf/jquery/jquery.js"></script>
 <!--音乐代码-->
 <audio autoplay="autoplay" src="https://api.vvhan.com/api/rand.music?sort=热歌榜" onended="this.load();"></audio>
 </div>
