@@ -150,9 +150,23 @@
       <!--<p><p><b>QQ:434684601<br></p><p><p><b>--><br></p><br><br><br>
       <div class="sign">
         <p>@流浪ㅤㅤㅤ</p>
-        <p><span id="mytime"></span></p>
+        <p>
+        <script type="text/javascript">
+          var date = new Date();
+          var seperator = "-";
+          var year = date.getFullYear();
+          var month = date.getMonth() + 1;
+          var strDate = date.getDate();
+          if (month >= 1 && month <= 9) {
+              month = "0" + month;
+          }
+          if (strDate >= 0 && strDate <= 9) {
+              strDate = "0" + strDate;
+          }
+         document.write(year + seperator + month + seperator + strDate); 
+         </script></p>
       </div> 
-<script>
+<script type="text/javascript">
   var $el = document.querySelector('#pic');
   if ($el) {
     var start = Date.now();
@@ -165,17 +179,8 @@
       }
     }, 1000 / 3);
   }
-        $(document).ready(function(){
-	        var date = new Date();
-	        var weekDay = ["星期天", "星期一", "星期二", "星期三", "星期四", "星期五", "星期六"];
-	        var year = date.getFullYear();
-	        var month = date.getMonth()+1;
-	        var day = date.getDate();
-	        var week = weekDay[date.getDay()];
-	        $("#mytime").html(year+"-"+month+"-"+day);
-       });
 </script>
-<script src="https://cdn-vercel.jxjson.cf/jquery/jquery.js"></script>
 <!--音乐代码-->
 <audio autoplay="autoplay" src="https://api.vvhan.com/api/rand.music?sort=热歌榜" onended="this.load();"></audio>
-</div>
+</body>
+</html>
