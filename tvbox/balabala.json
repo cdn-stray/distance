@@ -1,0 +1,208 @@
+{
+  "sites": [
+    {
+    "key": "js豆瓣",
+    "name": "🍥┃豆瓣榜单┃🍥",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0,
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
+    },
+    {
+    "key": "官方资源",
+    "name": "官方资源",
+    "type": 1,
+    "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
+    {
+    "key": "csp_WoGG",
+    "name": "💢阿里云盘(请勿相信视频内广告)",
+    "type": 3,
+    "api": "csp_WoGG",
+    "playerType": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable":0,
+    "ext":"e772d66cb1684da6bf951d9cd7fe6881+4k|fhd|auto$$$https://wogg.xyz/",
+    "jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
+    },
+    {
+    "key": "csp_XYQHiker_HDmoli影视",
+    "name": "💢HDmoli影视(请勿相信视频内广告)",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/HDmoli.json"
+    },
+    {
+    "key": "csp_XYQHiker_厂长影视",
+    "name": "💢厂长影视(请勿相信视频内广告)",
+    "type": 3,
+    "api": "csp_XYQHiker",
+    "playerType": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/changzhang.json"
+    },
+    {
+    "key": "csp_xBPQ_LIBVIO",
+    "name": "💢LIBVIO(请勿相信视频内广告)",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "playerType": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.json"
+    },
+    {
+    "key": "芒果",
+    "name": "💢芒果TV[官网]",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/芒果.js"
+    },
+    {
+    "key": "drpy_js_优酷",
+    "name": "💢优酷[官网]",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/优酷.js"
+    },
+    {
+    "key": "drpy_js_爱奇艺",
+    "name": "💢爱奇艺[官网]",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/爱奇艺.js"
+    },
+    {
+    "key": "drpy_js_腾讯",
+    "name": "💢腾讯[官网]",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
+    },
+    {
+    "key":"js虎牙",
+    "name":"🐅┃虎牙┃直播",
+    "type":3,
+    "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/虎牙直播.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0
+    }
+  ],
+  "lives": [
+    {
+      "name": "直播",
+      "type": 0,
+      "url": "https://cdn-vercel.jxjson.cf/tvbox/live.txt",
+      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
+    },
+    {
+      "group": "redirect",
+      "channels": [
+        {
+          "name": "live",
+          "urls": [
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4tdmVyY2VsLmp4anNvbi5jZi90dmJveC9saXZlLnR4dA"
+          ]
+        }
+      ],
+      "epg":"http://diyp.112114.xyz/"
+    }
+  ],
+  "parses": [
+    {"name":"解析聚合","type":3,"url":"Demo"},
+    {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
+      "name": "左岸接口",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "header":{
+      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+    }
+    },
+    {
+      "name": "虾米接口",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "header":{
+      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+    }
+    },
+    {
+      "name": "巴拉接口",
+      "type": 1,
+      "url": "https://jxjson.cf/json.php?url=",
+      "header":{
+      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+    }
+    }
+  ],
+"rules": [
+        {
+            "host": "*",
+            "rule": [
+                "obj/tos"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "qunliao.info"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "douyin.com/aweme",
+                "video_id="
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "huoshan.com",
+                "/item/video/"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}?\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)\\?.*"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "http((?!http).){12,}\\.(m3u8|mp4|flv|avi|mkv|rm|wmv|mpg|m4a)"
+            ]
+        }
+    ],
+"flags":["youku","优酷","优 酷","优酷视频", "qq","腾讯","腾 讯","腾讯视频", "iqiyi", "qiyi","奇艺","爱奇艺","爱 奇 艺", "m1905", "xigua", "letv","leshi","乐视","乐 视", "sohu","搜狐","搜 狐","搜狐视频", "tudou", "pptv", "mgtv","芒果","imgo","芒果TV","芒 果 T V", "bilibili","哔 哩","哔 哩 哔 哩"],
+"ijk":[{"group":"软解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"0"},{"category":4,"name":"mediacodec-auto-rotate","value":"0"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},{"category":4,"name":"mediacodec-hevc","value":"0"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]},{"group":"硬解码","options":[{"category":4,"name":"opensles","value":"0"},{"category":4,"name":"overlay-format","value":"842225234"},{"category":4,"name":"framedrop","value":"1"},{"category":4,"name":"soundtouch","value":"1"},{"category":4,"name":"start-on-prepared","value":"1"},{"category":1,"name":"http-detect-range-support","value":"0"},{"category":1,"name":"fflags","value":"fastseek"},{"category":2,"name":"skip_loop_filter","value":"48"},{"category":4,"name":"reconnect","value":"1"},{"category":4,"name":"max-buffer-size","value":"5242880"},{"category":4,"name":"enable-accurate-seek","value":"0"},{"category":4,"name":"mediacodec","value":"1"},{"category":4,"name":"mediacodec-auto-rotate","value":"1"},{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},{"category":4,"name":"mediacodec-hevc","value":"1"},{"category":1,"name":"dns_cache_timeout","value":"600000000"}]}],
+"ads": [
+    "wan.51img1.com",
+    "iqiyi.hbuioo.com",
+    "vip.ffzyad.com",
+    "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
+  ],
+  "spider": "https://cdn-vercel.jxjson.cf/tvbox/csp_xBPQ.jar"
+}
