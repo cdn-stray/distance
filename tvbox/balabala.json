@@ -102,6 +102,7 @@
     "key":"js虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
+    "playerType": 3,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/虎牙直播.js",
     "searchable": 0,
