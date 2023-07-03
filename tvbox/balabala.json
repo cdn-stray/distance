@@ -70,6 +70,7 @@
     "key": "芒果",
     "name": "💢芒果TV[官网]",
     "type": 3,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/芒果.js"
     },
@@ -77,6 +78,7 @@
     "key": "drpy_js_优酷",
     "name": "💢优酷[官网]",
     "type": 3,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/优酷.js"
     },
@@ -84,6 +86,7 @@
     "key": "drpy_js_爱奇艺",
     "name": "💢爱奇艺[官网]",
     "type": 3,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/爱奇艺.js"
     },
@@ -91,6 +94,7 @@
     "key": "drpy_js_腾讯",
     "name": "💢腾讯[官网]",
     "type": 3,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
     },
@@ -105,26 +109,17 @@
     "filterable": 0
     }
   ],
-  "lives": [
-    {
-      "name": "直播",
-      "type": 0,
-      "url": "https://cdn-vercel.jxjson.cf/tvbox/live.txt",
-      "epg": "https://diyp.112114.xyz/?ch={name}&date={date}"
-    },
-    {
-      "group": "redirect",
-      "channels": [
+    "lives": [
         {
-          "name": "live",
-          "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9jZG4tdmVyY2VsLmp4anNvbi5jZi90dmJveC9saXZlLnR4dA"
-          ]
+            "name": "live",
+            "type": 0,
+            "url": "https://cdn-vercel.jxjson.cf/tvbox/live.txt",
+            "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
+            "playerType": 1
         }
-      ],
-      "epg":"http://diyp.112114.xyz/"
-    }
-  ],
+    ],
   "parses": [
     {"name":"解析聚合","type":3,"url":"Demo"},
     {
@@ -205,49 +200,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-      "doh": [
-        {
-            "name": "Google",
-            "url": "https://dns.google/dns-query",
-            "ips": [
-                "8.8.4.4",
-                "8.8.8.8"
-            ]
-        },
-        {
-            "name": "Cloudflare",
-            "url": "https://cloudflare-dns.com/dns-query",
-            "ips": [
-                "1.1.1.1",
-                "1.0.0.1",
-                "2606:4700:4700::1111",
-                "2606:4700:4700::1001"
-            ]
-        },
-        {
-            "name": "AdGuard",
-            "url": "https://dns.adguard.com/dns-query",
-            "ips": [
-                "94.140.14.140",
-                "94.140.14.141"
-            ]
-        },
-        {
-            "name": "DNSWatch",
-            "url": "https://resolver2.dns.watch/dns-query",
-            "ips": [
-                "84.200.69.80",
-                "84.200.70.40"
-            ]
-        },
-        {
-            "name": "Quad9",
-            "url": "https://dns.quad9.net/dns-quer",
-            "ips": [
-                "9.9.9.9",
-                "149.112.112.112"
-            ]
-        }
-    ],
   "spider": "https://cdn-vercel.jxjson.cf/tvbox/csp_xBPQ.jar"
 }
