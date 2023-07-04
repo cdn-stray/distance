@@ -561,7 +561,7 @@ p {
 .banner-area {
   position: relative;
   z-index: 5;
-  padding-top: 180px;
+  padding-top: 100px;
   padding-bottom: 110px;
   overflow: hidden; }
   .banner-area .banner-shape-1 {
@@ -3082,3 +3082,5 @@ p {
         transition: all 0.3s linear; }
         .sidebar .sidebar-tags .sidebar-tags-list li a:hover {
           color: #ff8257; }
+
+/*# sourceMappingURL=style.css.map */
