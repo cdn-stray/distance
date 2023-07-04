@@ -245,7 +245,7 @@ p {
   left: 0;
   width: 100%;
   z-index: 999;
-  padding: 23px 0;
+  padding: 5px 0;
   border-bottom: 1px solid rgba(0, 0, 0, 0.15); }
   .header-area.sticky {
     position: fixed;
