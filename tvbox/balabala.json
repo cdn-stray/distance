@@ -11,14 +11,12 @@
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
     },
     {
-    "key": "官方资源",
-    "name": "官方资源",
-    "type": 1,
-    "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod/?ac=list",
+    "key": "搜狗视频",
+    "name": "💢搜狗视频[官网]",
+    "type": 3,
     "playerType": 3,
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/搜狗视频.js"
     },
     {
     "key": "csp_WoGG",
