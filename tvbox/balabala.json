@@ -5,10 +5,6 @@
     "name": "🍥┃豆瓣榜单┃🍥",
     "type": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "Referer":"https://api.douban.com/",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
     },
     {
