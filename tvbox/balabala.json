@@ -8,6 +8,9 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0,
+      "header":{
+      "Referer":"https://api.douban.com/","User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36"
+    },
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
     },
     {
