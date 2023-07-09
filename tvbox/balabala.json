@@ -10,6 +10,60 @@
     "filterable": 0,
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
     },
+    // 首页推荐视频 (豆瓣)
+"recommend": [{
+ "name": "豆瓣推荐",
+ "request": {
+  "method": "GET",
+  "header": [{
+   "key": "Referer",
+   "value": "https://movie.douban.com/"
+  }],
+  "url": {
+   "raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"
+  }
+ },
+ "response": {
+  "result": "$.data",
+  "data": [{
+    "key": "name",
+    "value": "title"
+   },
+   {
+    "key": "note",
+    "value": "rate"
+   },
+   {
+    "key": "pic",
+    "value": "cover"
+   }
+  ]
+ },
+ "expires" : "86400"
+}],
+
+
+
+
+// 评分 (数据来自 豆瓣)
+"rating": [{
+    "name": "rating",
+    "request": {
+     "method": "GET",
+     "url": {
+      "raw": "https://api.wmdb.tv/api/v1/movie/search?q={name}&limit=1"
+     }
+    },
+    "response": {
+        "result": "this",
+        "data": [
+       {
+        "key": "rating",
+        "value": "doubanRating"
+       }
+      ]
+    }
+}],
     {
     "key": "搜狗视频",
     "name": "💢搜狗视频[官网]",
