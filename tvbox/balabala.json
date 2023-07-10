@@ -7,9 +7,6 @@
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
     },
-    {"key":"AppYsV2_迪迪","name":"迪迪","type":3,"api":"csp_AppYsV2","filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api123.adys.app/xgapp.php/v3/","jar": "https://cdn-vercel.jxjson.cf/tvbox/fm.jar"},
-{"key":"AppYsV2_酷酷","name":"酷酷","type":3,"api":"csp_AppYsV2","ext":"http://ys.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"],"jar": "https://cdn-vercel.jxjson.cf/tvbox/fm.jar"},
-{"key":"AppYsV2_飞速","name":"飞速","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://longfei.lfytyl.com/api.php/app/","jar": "https://cdn-vercel.jxjson.cf/tvbox/fm.jar"},
     {
     "key": "搜狗视频",
     "name": "💢搜狗视频[官网]",
