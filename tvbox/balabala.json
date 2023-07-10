@@ -15,7 +15,6 @@
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/搜狗视频.js"
     },
-	  {"key":"drpy_js_酷云77","name":"影视 | 酷云77[js]","type":3,"api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js","ext":"https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js/%E9%85%B7%E4%BA%9177.js"},
     {
     "key": "csp_WoGG",
     "name": "💢阿里云盘(请勿相信视频内广告)",
