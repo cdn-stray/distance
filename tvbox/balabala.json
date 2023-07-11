@@ -11,7 +11,7 @@
     "key": "搜狗视频",
     "name": "💢搜狗视频[官网]",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/搜狗视频.js"
     },
@@ -20,7 +20,7 @@
     "name": "💢阿里云盘(请勿相信视频内广告)",
     "type": 3,
     "api": "csp_WoGG",
-    "playerType": 2,
+    "playerType": 3,
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -32,7 +32,7 @@
     "key": "csp_XYQHiker_HDmoli影视",
     "name": "💢HDmoli影视(请勿相信视频内广告)",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/HDmoli.js"
     },
@@ -41,7 +41,7 @@
     "name": "💢厂长影视(请勿相信视频内广告)",
     "type": 3,
     "api": "csp_XYQHiker",
-    "playerType": 2,
+    "playerType": 3,
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -52,7 +52,7 @@
     "name": "💢LIBVIO(请勿相信视频内广告)",
     "type": 3,
     "api": "csp_xBPQ",
-    "playerType": 2,
+    "playerType": 3,
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
@@ -62,7 +62,7 @@
     "key": "芒果",
     "name": "💢芒果TV[官网]",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/芒果.js"
     },
@@ -70,7 +70,7 @@
     "key": "drpy_js_优酷",
     "name": "💢优酷[官网]",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/优酷.js"
     },
@@ -78,7 +78,7 @@
     "key": "drpy_js_爱奇艺",
     "name": "💢爱奇艺[官网]",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/爱奇艺.js"
     },
@@ -86,7 +86,7 @@
     "key": "drpy_js_腾讯",
     "name": "💢腾讯[官网]",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
     },
@@ -94,7 +94,7 @@
     "key":"js虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
-    "playerType": 2,
+    "playerType": 3,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/虎牙直播.js",
     "searchable": 0,
@@ -105,7 +105,7 @@
     "key":"js斗鱼",
     "name":"🐟┃斗鱼┃直播",
     "type":3,
-    "playerType": 2,
+    "playerType": 3,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/斗鱼直播.js",
     "searchable": 0,
@@ -121,7 +121,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-            "playerType": 2
+            "playerType": 1
         }
     ],
   "parses": [
