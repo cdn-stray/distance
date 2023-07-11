@@ -1,7 +1,7 @@
 var rule={
     title:'厂长资源',
     // host:'https://czspp.com',
-    host:'http://www.czzy03.com',
+    host:'http://www.cz4k.com',
     url:'/fyclass/page/fypage',
     // searchUrl:'/xssearch?q=**&f=_all&p=fypage',
     // searchUrl:'/?#s=**;post',
