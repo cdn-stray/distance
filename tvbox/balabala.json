@@ -94,7 +94,7 @@
     "key":"js虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
-    "playerType": 1,
+    "playerType": 2,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/虎牙直播.js",
     "searchable": 0,
@@ -105,7 +105,7 @@
     "key":"js斗鱼",
     "name":"🐟┃斗鱼┃直播",
     "type":3,
-    "playerType": 1,
+    "playerType": 2,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/斗鱼直播.js",
     "searchable": 0,
@@ -121,7 +121,7 @@
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
-            "playerType": 1
+            "playerType": 2
         }
     ],
   "parses": [
