@@ -166,12 +166,6 @@
         {
             "host": "*",
             "rule": [
-                "ctyunxs.cn"
-            ]
-        },
-        {
-            "host": "*",
-            "rule": [
                 "douyin.com/aweme",
                 "video_id="
             ]
