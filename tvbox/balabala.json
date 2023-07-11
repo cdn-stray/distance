@@ -169,6 +169,12 @@
         {
             "host": "*",
             "rule": [
+                ".mp4"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
                 "qunliao.info"
             ]
         },
