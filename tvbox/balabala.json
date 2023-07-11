@@ -88,7 +88,7 @@
     "key":"js虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
-    "playerType": 2,
+    "playerType": 1,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/虎牙直播.js",
     "searchable": 0,
@@ -99,7 +99,7 @@
     "key":"js斗鱼",
     "name":"🐟┃斗鱼┃直播",
     "type":3,
-    "playerType": 2,
+    "playerType": 1,
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/斗鱼直播.js",
     "searchable": 0,
@@ -161,6 +161,12 @@
             "host": "*",
             "rule": [
                 "qunliao.info"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "ctyunxs.cn"
             ]
         },
         {
