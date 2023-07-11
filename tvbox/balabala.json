@@ -48,9 +48,12 @@
     "key": "csp_xBPQ_LIBVIO",
     "name": "💢LIBVIO(请勿相信视频内广告)",
     "type": 3,
-    "playerType": 2,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.js"
+    "api": "csp_xBPQ",
+    "playerType": 3,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.json"
     },
     {
     "key": "芒果",
