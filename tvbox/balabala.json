@@ -137,6 +137,14 @@
     }
     },
     {
+      "name": "365接口",
+      "type": 0,
+      "url": "https://chaxun.truechat365.com/?url=",
+      "header":{
+      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+    }
+    },
+    {
       "name": "巴拉接口",
       "type": 1,
       "url": "https://jxjson.cf/json.php?url=",
