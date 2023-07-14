@@ -121,6 +121,12 @@
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
     },
     {
+    "key":"py_cctv",
+    "name": "💢CCTV[官网]",
+    "type": 3,
+    "api": "py_cctv",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/cctv.py"},
+    {
     "key":"js虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
