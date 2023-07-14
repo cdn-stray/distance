@@ -8,24 +8,32 @@
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
     },
     {
-    "key": "搜狗视频",
-    "name": "💢┃搜狗视频┃[官网]",
+    "key": "芒果",
+    "name": "💢┃芒果TV┃[官网]",
     "type": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/搜狗视频.js"
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/芒果.js"
     },
     {
-    "key": "csp_WoGG",
-    "name": "💢┃阿里云盘┃请勿相信视频内广告",
+    "key": "drpy_js_优酷",
+    "name": "💢┃优酷┃[官网]",
     "type": 3,
-    "playerType": 2,
-    "api": "csp_WoGG",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "changeable":0,
-    "ext":"http://127.0.0.1:9978/file/fatcat/token.txt+auto$$$https://wogg.xyz/",
-    "jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/优酷.js"
+    },
+    {
+    "key": "drpy_js_爱奇艺",
+    "name": "💢┃爱奇艺┃[官网]",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/爱奇艺.js"
+    },
+    {
+    "key": "drpy_js_腾讯",
+    "name": "💢┃腾讯┃[官网]",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
     },
     {
     "key": "csp_XBPQ_JOJO",
@@ -83,16 +91,6 @@
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/changzhang.json"
     },
     {
-    "key": "csp_xBPQ_LIBVIO",
-    "name": "💢┃LIBVIO┃请勿相信视频内广告",
-    "type": 3,
-    "api": "csp_xBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.json"
-    },
-    {
     "key": "js 77",
     "name": "💢┃酷云77┃请勿相信视频内广告",
     "type": 3,
@@ -103,32 +101,34 @@
     "filterable": 1
     },
     {
-    "key": "芒果",
-    "name": "💢┃芒果TV┃[官网]",
+    "key": "csp_xBPQ_LIBVIO",
+    "name": "💢┃LIBVIO┃请勿相信视频内广告",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/芒果.js"
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.json"
     },
     {
-    "key": "drpy_js_优酷",
-    "name": "💢┃优酷┃[官网]",
+    "key": "搜狗视频",
+    "name": "💢┃搜狗视频┃[官网]",
     "type": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/优酷.js"
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/搜狗视频.js"
     },
     {
-    "key": "drpy_js_爱奇艺",
-    "name": "💢┃爱奇艺┃[官网]",
+    "key": "csp_WoGG",
+    "name": "💢┃阿里云盘┃请勿相信视频内广告",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/爱奇艺.js"
-    },
-    {
-    "key": "drpy_js_腾讯",
-    "name": "💢┃腾讯┃[官网]",
-    "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
+    "playerType": 2,
+    "api": "csp_WoGG",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "changeable":0,
+    "ext":"http://127.0.0.1:9978/file/fatcat/token.txt+auto$$$https://wogg.xyz/",
+    "jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
     },
     {
     "key":"drpy_js_酷狗MV",
