@@ -28,6 +28,16 @@
     "jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
     },
     {
+    "key": "csp_xBPQ_布雷",
+    "name": "💢布雷影视(请勿相信视频内广告)",
+    "type": 3,
+    "api": "csp_xBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext":"https://cdn-vercel.jxjson.cf/tvbox/布雷.json"
+    },
+    {
     "key": "csp_XYQHiker_农民影视",
     "name": "💢备用影视(请勿相信视频内广告)",
     "type": 3,
