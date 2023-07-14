@@ -27,35 +27,43 @@
     "ext":"http://127.0.0.1:9978/file/fatcat/token.txt+auto$$$https://wogg.xyz/",
     "jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
     },
-    		{
-			"key": "csp_XBPQ_JOJO",
-			"name": "💢JOJO(请勿相信视频内广告)",
-			"type": 3,
-			"api": "csp_XBPQ",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"jar": "https://cdn-vercel.jxjson.cf/tvbox/xm.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad",
-			"ext": {
-				"二次截取": "class=\"content-body\"&&class=\"content-lift\"",
-				"数组": "<a&&</a>",
-				"图片": "src=\"&&\"",
-				"标题": "class=\"card-title\">&&</p>",
-				"副标题": "class=\"item-speed\">&&</p>",
-				"链接": "href=\"&&\"",
-				"播放数组": "class=\"plyr-sidebar-list&&</div>",
-				"嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
-				"搜索url": "https://app.syrme.top/video/search?q={wd}",
-				"分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
-				"分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-			}
-		},
+    {
+    "key": "csp_XBPQ_JOJO",
+    "name": "💢JOJO(请勿相信视频内广告)",
+    "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "jar": "https://cdn-vercel.jxjson.cf/tvbox/xm.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad",
+    "ext": {
+    "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
+    "数组": "<a&&</a>",
+    "图片": "src=\"&&\"",
+    "标题": "class=\"card-title\">&&</p>",
+    "副标题": "class=\"item-speed\">&&</p>",
+    "链接": "href=\"&&\"",
+    "播放数组": "class=\"plyr-sidebar-list&&</div>",
+    "嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
+    "搜索url": "https://app.syrme.top/video/search?q={wd}",
+    "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
+    "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
+    }
+    },
     {
     "key": "csp_XYQHiker_农民影视",
     "name": "💢备用影视(请勿相信视频内广告)",
     "type": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/农民影视.js"
+    },
+    {
+    "key": "低端",
+    "name": "💢低端影视(请勿相信视频内广告)",
+    "type": 3,
+    "playerType":"2",
+    "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/低端.js"
     },
     {
     "key": "csp_XYQHiker_HDmoli影视",
