@@ -92,25 +92,15 @@
     "filterable": 1,
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.json"
     },
-	          {
-            "key": "js 77",
-            "name": "🌍酷云77",
-            "type": 3,
-            "api": "https://agit.ai/guot54/ygbhx/raw/branch/master/lib/drpy2.min.js",
-            "ext": "https://agit.ai/guot54/ygbh/raw/branch/master/JS/%e9%85%b7%e4%ba%9177.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
     {
-    "key":"drpy_js_荐片",
-    "name":"💢┃荐片┃请勿相信视频内广告",
-    "type":3,
-    "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "searchable":1,
-    "quickSearch":1,
-    "changeable":1,
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/荐片.js"
+    "key": "js 77",
+    "name": "💢┃酷云77┃请勿相信视频内广告",
+    "type": 3,
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/酷云.js",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
     },
     {
     "key": "芒果",
@@ -139,13 +129,6 @@
     "type": 3,
     "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
-    },
-    {
-    "key":"py_cctv",
-    "name": "💢┃CCTV┃[官网]",
-    "type": 3,
-    "api": "py_cctv",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/cctv.py"
     },
     {
     "key":"drpy_js_酷狗MV",
