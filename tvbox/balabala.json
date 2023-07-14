@@ -167,6 +167,12 @@
             ]
         },
         {
+            "host": "ctyunxs.cn",
+            "rule": [
+                "ctyunxs.cn"
+            ]
+        },
+        {
             "host": "*",
             "rule": [
                 "douyin.com/aweme",
