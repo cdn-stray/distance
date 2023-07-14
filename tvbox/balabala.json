@@ -104,11 +104,8 @@
     "key": "csp_xBPQ_LIBVIO",
     "name": "💢┃LIBVIO┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_xBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.json"
+    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/LIBVIO.js"
     },
     {
     "key": "搜狗视频",
