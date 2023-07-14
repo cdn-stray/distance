@@ -4,36 +4,36 @@
     "key": "js豆瓣",
     "name": "🍥┃豆瓣榜单┃🍥",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/douban.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/douban.js"
     },
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/芒果.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/芒果.js"
     },
     {
     "key": "drpy_js_优酷",
     "name": "💢┃优酷┃[官网]",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/优酷.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/优酷.js"
     },
     {
     "key": "drpy_js_爱奇艺",
     "name": "💢┃爱奇艺┃[官网]",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/爱奇艺.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/爱奇艺.js"
     },
     {
     "key": "drpy_js_腾讯",
     "name": "💢┃腾讯┃[官网]",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/腾讯.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/腾讯.js"
     },
     {
     "key": "csp_XBPQ_JOJO",
@@ -43,7 +43,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "https://cdn-vercel.jxjson.cf/tvbox/xm.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad",
+    "jar": "https://bjson.cf/tvbox/xm.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad",
     "ext": {
     "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
     "数组": "<a&&</a>",
@@ -64,14 +64,14 @@
     "type": 3,
     "playerType":"2",
     "api": "http://alist.xn--z7x900a.love:63/drpy2.min.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/低端.js"
+    "ext": "https://bjson.cf/tvbox/低端.js"
     },
     {
     "key": "csp_XYQHiker_HDmoli影视",
     "name": "💢┃HDmoli┃请勿相信视频内广告",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/HDmoli.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/HDmoli.js"
     },
     {
     "key": "csp_XYQHiker_厂长影视",
@@ -81,14 +81,14 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/changzhang.json"
+    "ext":"https://bjson.cf/tvbox/changzhang.json"
     },
     {
     "key": "js 77",
     "name": "💢┃酷云77┃请勿相信视频内广告",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/酷云.js",
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/酷云.js",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1
@@ -97,8 +97,8 @@
     "key": "搜狗视频",
     "name": "💢┃搜狗视频┃[官网]",
     "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/搜狗视频.js"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
     {
     "key": "csp_WoGG",
@@ -111,24 +111,24 @@
     "filterable": 1,
     "changeable":0,
     "ext":"http://127.0.0.1:9978/file/fatcat/token.txt+auto$$$https://wogg.xyz/",
-    "jar":"https://cdn-vercel.jxjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
+    "jar":"https://bjson.cf/tvbox/fm.jar;md5;b16afbd09b4b1448533ec47e56aef1f8"
     },
     {
     "key":"drpy_js_酷狗MV",
     "name":"💢┃酷狗音乐┃MV",
     "type":3,
-    "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "api":"https://bjson.cf/tvbox/drpymin.js",
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/酷狗MV.js"
+    "ext": "https://bjson.cf/tvbox/酷狗MV.js"
     },
     {
     "key":"js虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
-    "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/虎牙直播.js",
+    "api":"https://bjson.cf/tvbox/drpymin.js",
+    "ext":"https://bjson.cf/tvbox/虎牙直播.js",
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0
@@ -137,8 +137,8 @@
     "key":"js斗鱼",
     "name":"🐟┃斗鱼┃直播",
     "type":3,
-    "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/斗鱼直播.js",
+    "api":"https://bjson.cf/tvbox/drpymin.js",
+    "ext":"https://bjson.cf/tvbox/斗鱼直播.js",
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0
@@ -147,18 +147,18 @@
     "key":"drpy_js_短视频",
     "name":"💢┃聚合┃短视频",
     "type":3,
-    "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
+    "api":"https://bjson.cf/tvbox/drpymin.js",
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/短视频.js"
+    "ext":"https://bjson.cf/tvbox/短视频.js"
     }
   ],
     "lives": [
         {
             "name": "live",
             "type": 0,
-            "url": "https://cdn-vercel.jxjson.cf/tvbox/live.txt",
+            "url": "https://bjson.cf/tvbox/live.txt",
             "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
             "logo": "https://epg.112114.xyz/logo/{name}.png",
             "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36",
@@ -250,5 +250,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "spider": "https://cdn-vercel.jxjson.cf/tvbox/csp_xBPQ.jar"
+  "spider": "https://bjson.cf/tvbox/csp_xBPQ.jar"
 }
