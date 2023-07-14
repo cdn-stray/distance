@@ -2,7 +2,12 @@
   "version": 2,
   "routes": [
     { "handle": "filesystem" },
-    { "src": "/balabala", "status": 404, "dest": "/3.0.json" }
     { "src": "/(.*)", "status": 404, "dest": "/404.html" }
+  ]
+    "rewrites": [
+    {
+      "source": "/balabala", 
+      "destination": "/3.0.json"
+    }
   ]
 }
