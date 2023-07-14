@@ -1,1 +1,0 @@
-realUrl = 重定向('http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url='+vipUrl)
