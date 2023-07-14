@@ -138,6 +138,16 @@
     "ext": "https://cdn-vercel.jxjson.cf/tvbox/cctv.py"
     },
     {
+		"key": "py_bilimd",
+		"name": "🔥B站影视",
+		"type": 3,
+		"api": "py_bilimd",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 1,
+		"ext": "https://ghproxy.com/https://raw.githubusercontent.com/lm317379829/PyramidStore/pyramid/plugin/py_bilimd.py"
+	  },
+    {
     "key":"drpy_js_酷狗MV",
     "name":"💢┃酷狗音乐┃MV",
     "type":3,
