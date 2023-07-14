@@ -59,13 +59,6 @@
     }
     },
     {
-    "key": "csp_XYQHiker_农民影视",
-    "name": "💢┃备用影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
-    "ext": "https://cdn-vercel.jxjson.cf/tvbox/农民影视.js"
-    },
-    {
     "key": "低端",
     "name": "💢┃低端影视┃请勿相信视频内广告",
     "type": 3,
