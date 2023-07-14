@@ -144,8 +144,8 @@
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "searchable": 0,
     "quickSearch": 0,
-    "filterable": 0
-    "ext":"https://cdn-vercel.jxjson.cf/tvbox/酷狗MV.js"
+    "filterable": 0,
+    "ext": "https://cdn-vercel.jxjson.cf/tvbox/酷狗MV.js"
     },
     {
     "key":"js虎牙",
@@ -174,7 +174,7 @@
     "api":"https://cdn-vercel.jxjson.cf/tvbox/drpymin.js",
     "searchable": 0,
     "quickSearch": 0,
-    "filterable": 0
+    "filterable": 0,
     "ext":"https://cdn-vercel.jxjson.cf/tvbox/短视频.js"
     }
   ],
