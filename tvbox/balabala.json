@@ -92,9 +92,6 @@
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/酷云.js",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
     },
     {
     "key": "搜狗视频",
