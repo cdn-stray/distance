@@ -84,11 +84,8 @@
     "key": "csp_XYQHiker_厂长影视",
     "name": "💢┃厂长影视┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_XYQHiker",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext":"https://bjson.cf/tvbox/changzhang.json"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/厂长影视.js"
     },
     {
     "key": "js 77",
