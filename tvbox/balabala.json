@@ -85,7 +85,7 @@
     "name": "💢┃厂长影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/厂长影视.js"
+    "ext": "https://bjson.cf/tvbox/厂长资源.js"
     },
     {
     "key": "js 77",
@@ -202,6 +202,12 @@
     }
   ],
 "rules": [
+        {
+            "host": "*",
+            "rule": [
+                "video/tos"
+            ]
+        },
         {
             "host": "*",
             "rule": [
