@@ -43,7 +43,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "jar": "https://bjson.cf/tvbox/xm.jar;md5;6ad6ecbdd8d8dd440f9824c9b6628cad",
+    "jar": "https://bjson.cf/tvbox/716.jar",
     "ext": {
     "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
     "数组": "<a&&</a>",
