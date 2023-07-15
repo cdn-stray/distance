@@ -214,13 +214,19 @@
         {
             "host": "*",
             "rule": [
-                "qunliao.info"
+                "video/mp4"
             ]
         },
         {
-            "host": "ctyunxs.cn",
+            "host": "*",
             "rule": [
-                "ctyunxs.cn"
+                "video_mp4"
+            ]
+        },
+        {
+            "host": "*",
+            "rule": [
+                "qunliao.info"
             ]
         },
         {
