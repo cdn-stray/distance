@@ -18,48 +18,11 @@
     "ext":"http://cms.realdou.cn/api.php/app/",
     "categories":["4K电影","4K电视剧"]
     },
-    {"key":"明帝影视","name":"明帝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
-{"key":"F7好剧看","name":"F7好剧看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"}, 
-{"key":"鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
-     {"key": "看看剧APP","name": "看看剧", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://kankanju.cc/api.php/app/"},
-  {      "key": "csp_aidi_api",
-      "name": "爱迪高清APP",      "type": 3,
-      "api": "csp_AppYsV2",      "searchable": 1,
-      "quickSearch": 1,      "filterable": 1,
-      "ext": "https://aidiapp.xyz/xgapp.php/v2/"},
-   
-   {  "key": "csp_appys_996",
-         "name": "┣996┫APP",
-         "type": 3,
-         "api": "csp_AppYsV2",
-         "searchable": 1,
-         "quickSearch": 1,
-         "filterable": 1,
-         "ext": "http://dytt996.com/api.php/app/",
-         "categories": ["电影", "电视剧", "综艺", "动漫"]
-    },
-      {
-      "key": "csp_mengdandan_api",      "name": "萌蛋蛋APP",
-      "type": 3,      "api": "csp_AppYsV2",
-      "searchable": 1,      "quickSearch": 1,
-      "filterable": 1,      "ext": "http://app.mengdandan.com/xgapp.php/v1/"
-    },     
-
-
-	{"key":"csp_三亚","name":"三亚┃App","api":"csp_AppYsV2","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://yayayaaapp.ynf.icu/api.php/app/"},
-
-	 
-  {"key":"csp_appysv2_迷你库","name":"迷你库APP","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.miniku.cc/xgapp.php/v1/"},
-  {
-      "key": "平头哥",
-      "name": "⛄平头哥APP",
-      "api":"csp_AppYsV2",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.pingtouge.top/ruifenglb_api.php/v1.vod"
-    },
+{"key": "运输影城", "name": "🚛运输影城┃4K", "type": 3, "api":"csp_Ysyc","searchable":1,"quickSearch":1,"changeable":1,"categories":["飞云4K","电视剧","电影","动漫","综艺"],"jar":"https://weixine.net/ysyc.jar"},
+{"key": "运输车", "name": "🚛运输车┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/yunyun.json"},
+{"key":"车大哥", "name": "🚛车大哥┃4K", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://v.goyiquan.com/api.php/app/"},
+{ "key": "车小妹", "name": "🚛车小妹┃4K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
+{"key":"车小弟","name":"🚛车小弟┃4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lg.tvcms.top/api.php/app/"}, 
     
     {
     "key": "芒果",
