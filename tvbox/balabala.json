@@ -18,6 +18,9 @@
     "ext":"http://cms.realdou.cn/api.php/app/",
     "categories":["4K电影","4K电视剧"]
     },
+    {"key":"明帝影视","name":"明帝影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ys.md214.cn/api.php/app/"},
+{"key":"F7好剧看","name":"F7好剧看","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.f7hkj.cc/api.php/app/"}, 
+{"key":"鸭奈飞","name":"鸭奈飞","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.me/api.php/app/"},	
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
