@@ -151,6 +151,16 @@
     "filterable": 0
     },
     {
+    "key":"有声小说js",
+    "name":"🎧有声┃小说",
+    "type":3,
+    "api":"https://bjson.cf/tvbox/drpymin.js",
+    "ext":"https://agit.ai/fantaiying/dr_py/raw/branch/main/js/有声小说吧.js",
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable":0
+    },
+    {
     "key":"drpy_js_短视频",
     "name":"💢┃聚合┃短视频",
     "type":3,
