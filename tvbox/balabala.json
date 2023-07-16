@@ -7,7 +7,17 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
-{"key": "运输影城", "name": "🚛运输影城┃4K", "type": 3, "api":"csp_Ysyc","searchable":1,"quickSearch":1,"changeable":1,"categories":["飞云4K","电视剧","电影","动漫","综艺"],"jar":"https://weixine.net/ysyc.jar"},
+    {
+    "key": "运输影城",
+    "name": "🚛运输影城┃4K",
+    "type": 3,
+    "api":"csp_Ysyc",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "categories":["飞云4K","电视剧","电影","动漫","综艺"],
+    "jar":"https://weixine.net/ysyc.jar"
+    },
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
