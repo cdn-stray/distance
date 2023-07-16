@@ -21,9 +21,6 @@
 {"key": "运输影城", "name": "🚛运输影城┃4K", "type": 3, "api":"csp_Ysyc","searchable":1,"quickSearch":1,"changeable":1,"categories":["飞云4K","电视剧","电影","动漫","综艺"],"jar":"https://weixine.net/ysyc.jar"},
 {"key": "运输车", "name": "🚛运输车┃4K", "type": 3, "api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://weixine.net/sub/yunyun.json"},
 {"key":"车大哥", "name": "🚛车大哥┃4K", "type": 3,"api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "playerType": "2", "ext": "https://v.goyiquan.com/api.php/app/"},
-{ "key": "车小妹", "name": "🚛车小妹┃4K", "type": 3, "api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://4k.953365.cn:8090/xgapp.php/v3/"},
-{"key":"车小弟","name":"🚛车小弟┃4K","type":3,"api":"csp_AppYsV2","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://lg.tvcms.top/api.php/app/"}, 
-    
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
