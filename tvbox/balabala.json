@@ -8,10 +8,10 @@
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
     {
-      "key": "360影视",
-      "name": "💢┃360影视┃[官网]",
+      "key": "芒果TV",
+      "name": "💢┃芒果TV┃[官网]",
       "type": 3,
-      "api": "csp_SP360",
+      "api": "csp_MGTV",
       "searchable": 1,
       "jar":"https://ghproxy.net/https://raw.githubusercontent.com/zhixc/CatVodTVSpider/main/jar/custom_spider.jar"
     },
