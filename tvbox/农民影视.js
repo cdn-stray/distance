@@ -23,6 +23,7 @@ var rule={
 		'User-Agent': 'MOBILE_UA',
 	},
 	class_parse: '#topnav li:lt(4);a&&Text;a&&href;/.*-(\\d+)-.*.html',
+	tab_exclude:'奇艺|腾讯|优酷|芒果',
 	play_parse: true,
 	lazy:'',
 	limit:6,
