@@ -7,7 +7,47 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
-    {"key":"酷酷","name":"💡酷酷┃App","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"changeable":0,"ext":"http://cms.realdou.cn/api.php/app/","categories":["4K电影","4K电视剧"]},
+    {
+    "key":"酷酷",
+    "name":"💡酷酷┃App",
+    "type":3,
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":0,
+    "ext":"http://cms.realdou.cn/api.php/app/",
+    "categories":["4K电影","4K电视剧"]
+    },
+    {
+			"key": "csp_appys_影探",
+			"name": "影探┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://ytcms.lfytyl.com/api.php/app/"
+		},
+		{
+			"key": "🍄蘑菇",
+			"name": "🍄️蘑菇┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "https://www.gvideo.me/api.php/app/"
+		},
+		{
+			"key": "测试",
+			"name": "🗯️落落┃APP",
+			"type": 3,
+			"api": "csp_AppYsV2",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
+			"ext": "http://luoye.shop:66/api.php/app/"
+		},
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
