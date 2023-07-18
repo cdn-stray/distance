@@ -15,7 +15,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://v.goyiquan.com/api.php/app/"
+    "ext": "https://v.goyiquan.com/api.php/app/",
+    "jar": "https://bjson.cf/tvbox/csp_xBPQ1.jar"
     },
     {
     "key": "芒果",
@@ -65,7 +66,8 @@
     "搜索url": "https://app.syrme.top/video/search?q={wd}",
     "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
     "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-    }
+    },
+    "jar": "https://bjson.cf/tvbox/csp_xBPQ1.jar"
     },
     {
     "key": "低端",
@@ -127,7 +129,8 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
+    "jar": "https://bjson.cf/tvbox/csp_xBPQ1.jar"
     },
     {
     "key":"drpy_js_酷狗MV",
