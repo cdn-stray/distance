@@ -203,8 +203,11 @@
     },
     {
       "name": "左岸接口",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&format=data&url="
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url=",
+      "header":{
+      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+    }
     },
     {
       "name": "虾米接口",
