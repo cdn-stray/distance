@@ -7,17 +7,19 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
-		{
-			"key": "测试2",
-			"name": "可可┃APP",
-			"type": 3,
-			"api": "csp_AppYsV2",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://4k.953365.cn:8090/xgapp.php/v3/",
+    {
+    "key": "csp_WoGG",
+    "name": "💢┃阿里云盘┃请勿相信视频内广告",
+    "type": 3,
+    "playerType": 2,
+    "api": "csp_WoGG",
+    "changeable": 0,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
     "jar": "https://bjson.cf/tvbox/csp_xBPQ.jar"
-		},
+    },
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
@@ -120,16 +122,14 @@
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
     {
-    "key": "csp_WoGG",
-    "name": "💢┃阿里云盘┃请勿相信视频内广告",
+    "key": "测试2",
+    "name": "💢可可┃请勿相信视频内广告",
     "type": 3,
-    "playerType": 2,
-    "api": "csp_WoGG",
-    "changeable": 0,
+    "api": "csp_AppYsV2",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
+    "ext": "http://4k.953365.cn:8090/xgapp.php/v3/",
     "jar": "https://bjson.cf/tvbox/csp_xBPQ.jar"
     },
     {
