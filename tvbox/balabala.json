@@ -206,7 +206,7 @@
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url=",
       "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"dart:io"
+      "User-Agent":"dart:io","IP":"1.1.1.1"
     }
     },
     {
