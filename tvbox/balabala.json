@@ -18,7 +18,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
-    "jar": "https://cdn-netlify.jxjson.cf/tvbox/csp_xBPQ.jar"
+    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
     },
     {
     "key": "芒果",
@@ -69,7 +69,7 @@
     "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
     "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
     },
-    "jar": "https://bjson.cf/tvbox/csp_xBPQ.jar"
+    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
     },
     {
     "key": "低端",
@@ -130,7 +130,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "http://4k.953365.cn:8090/xgapp.php/v3/",
-    "jar": "https://bjson.cf/tvbox/csp_xBPQ.jar"
+    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
     },
     {
     "key":"drpy_js_酷狗MV",
@@ -291,5 +291,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "spider": "https://cdn-netlify.jxjson.cf/tvbox/csp_xBPQ1.jar"
+  "spider": "http://124.222.228.238:21323/tvbox/csp_xBPQ1.jar"
 }
