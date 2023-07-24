@@ -18,7 +18,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
-    "jar": "https://bjson.cf/tvbox/csp_xBPQ.jar"
+    "jar": "https://cdn-netlify.jxjson.cf/tvbox/csp_xBPQ.jar"
     },
     {
     "key": "芒果",
@@ -291,5 +291,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "spider": "https://bjson.cf/tvbox/csp_xBPQ1.jar"
+  "spider": "https://cdn-netlify.jxjson.cf/tvbox/csp_xBPQ1.jar"
 }
