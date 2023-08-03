@@ -7,17 +7,6 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
-            {
-            "key": "Wogg",
-            "name": "🅱️玩偶哥哥|T追剧",
-            "type": 3,
-            "api": "csp_XPathAli",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 0,
-            "jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar",
-            "ext": "http://rihou.vip:88/hccx/玩偶哥哥.json"
-        },
     {
     "key": "csp_WoGG",
     "name": "💢┃阿里云盘┃请勿相信视频内广告",
