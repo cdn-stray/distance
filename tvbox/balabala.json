@@ -18,7 +18,7 @@
     "quickSearch": 1,
     "filterable": 1,
     "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
-    "jar": "https://ghproxy.com/https://github.com/zhixc/CatVodTVSpider/blob/main/jar/custom_spider.jar"
+    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
     },
     {
     "key": "芒果",
