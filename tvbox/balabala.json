@@ -17,8 +17,18 @@
     "changeable":0,
     "jar":"https://jxjson.cf/alibaba.jar"
     },
-    {"key":"csp_WoGG","name": "🚛玩偶┃4K","type": 3,"api": "csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://weixine.net/ali.jar"},
-
+    {
+    "key": "csp_WoGG",
+    "name": "💢┃阿里云盘┃请勿相信视频内广告",
+    "type": 3,
+    "playerType": 3,
+    "api": "csp_WoGG",
+    "changeable": 0,
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+    },
     {
     "key": "芒果",
     "name": "💢┃芒果TV┃[官网]",
