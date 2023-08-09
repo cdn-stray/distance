@@ -123,11 +123,12 @@
     "key":"酷影",
     "name":"💢┃酷影4K┃请勿相信视频内广告",
     "type":3,
-    "api": "csp_Kuying",
-    "searchable": 1,
-    "quickSearch": 1,
-    "changeable": 1,
-    "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;55894a9f32ba4201a1e2b157bb2e5c91"
+    "api":"csp_AppYsV2",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext":"http://cms.realdou.cn/api.php/app/",
+    "jar": "http://xhww.fun:63/小米/2.jar;md5;6e12873c628020196fe9400d1ef51f1c"
     },
     {
     "key":"drpy_js_酷狗MV",
