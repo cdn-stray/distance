@@ -11,7 +11,7 @@
     "key": "csp_WoGG",
     "name": "💢┃阿里云盘┃请勿相信视频内广告",
     "type": 3,
-    "playerType": 2,
+    "playerType": 3,
     "api": "csp_WoGG",
     "changeable": 0,
     "searchable": 1,
