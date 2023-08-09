@@ -17,8 +17,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt",
-    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
+    "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     
     },
     {
@@ -69,8 +68,7 @@
     "搜索url": "https://app.syrme.top/video/search?q={wd}",
     "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
     "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-    },
-    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
+    }
     },
     {
     "key": "低端",
@@ -123,15 +121,11 @@
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
     {
-    "key": "测试2",
-    "name": "💢┃可可┃请勿相信视频内广告",
+    "key": "荐片",
+    "name": "💢┃荐片┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_AppYsV2",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://yayayaaapp.ynf.icu/api.php/app/",
-    "jar": "http://124.222.228.238:21323/tvbox/csp_xBPQ.jar"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/荐片.js"
     },
     {
     "key":"drpy_js_酷狗MV",
@@ -203,6 +197,14 @@
       "url": "Web"
     },
     {
+      "name": "巴拉接口",
+      "type": 1,
+      "url": "https://jxjson.cf/json_balabala.php?url=",
+      "header":{
+      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+    }
+    },
+    {
       "name": "左岸接口",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url=",
@@ -214,14 +216,6 @@
       "name": "虾米接口",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
-      "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
-    }
-    },
-    {
-      "name": "巴拉接口",
-      "type": 1,
-      "url": "https://jxjson.cf/json_balabala.php?url=",
       "header":{
       "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
     }
@@ -292,5 +286,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "spider": "http://124.222.228.238:21323/tvbox/csp_xBPQ1.jar"
+  "spider": "https://jxjson.cf/csp_xBPQ.jar"
 }
