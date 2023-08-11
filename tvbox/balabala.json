@@ -162,6 +162,14 @@
     "changeable":0
     },
     {
+    "key":"drpy_js_蜻蜓FM",
+    "name":"🎧┃广播┃蜻蜓FM",
+    "type":3,
+    "api":"https://bjson.cf/tvbox/drpymin.js",
+    "changeable":0,
+    "ext":"https://bjson.cf/tvbox/蜻蜓FM.js"
+    },
+    {
     "key":"drpy_js_短视频",
     "name":"💢┃聚合┃短视频",
     "type":3,
