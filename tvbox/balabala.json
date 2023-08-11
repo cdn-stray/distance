@@ -161,7 +161,7 @@
     },
     {
     "key":"drpy_js_酷狗MV",
-    "name":"💢┃酷狗音乐┃MV",
+    "name":"📺┃酷狗音乐┃MV",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
     "searchable": 0,
@@ -171,7 +171,7 @@
     },
     {
     "key":"drpy_js_短视频",
-    "name":"💢┃聚合┃短视频",
+    "name":"📺┃聚合┃短视频",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
     "searchable": 0,
