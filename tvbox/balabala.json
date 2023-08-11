@@ -29,32 +29,11 @@
     "jar":"https://jxjson.cf/ali3.jar"
     },
     {
-    "key": "芒果",
-    "name": "💢┃芒果TV┃[官网]",
+    "key": "csp_XYQHiker_厂长影视",
+    "name": "💢┃厂长影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/芒果.js"
-    },
-    {
-    "key": "drpy_js_优酷",
-    "name": "💢┃优酷┃[官网]",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/优酷.js"
-    },
-    {
-    "key": "drpy_js_爱奇艺",
-    "name": "💢┃爱奇艺┃[官网]",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/爱奇艺.js"
-    },
-    {
-    "key": "drpy_js_腾讯",
-    "name": "💢┃腾讯┃[官网]",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/腾讯.js"
+    "ext": "https://bjson.cf/tvbox/厂长资源.js"
     },
     {
     "key": "csp_XBPQ_JOJO",
@@ -94,13 +73,6 @@
     "ext": "https://bjson.cf/tvbox/HDmoli.js"
     },
     {
-    "key": "csp_XYQHiker_厂长影视",
-    "name": "💢┃厂长影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/厂长资源.js"
-    },
-    {
     "key": "js 77",
     "name": "💢┃酷云影视┃请勿相信视频内广告",
     "type": 3,
@@ -113,6 +85,34 @@
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/农民影视.js"
+    },
+    {
+    "key": "drpy_js_腾讯",
+    "name": "💢┃腾讯┃[官网]",
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/腾讯.js"
+    },
+    {
+    "key": "芒果",
+    "name": "💢┃芒果TV┃[官网]",
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/芒果.js"
+    },
+    {
+    "key": "drpy_js_优酷",
+    "name": "💢┃优酷┃[官网]",
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/优酷.js"
+    },
+    {
+    "key": "drpy_js_爱奇艺",
+    "name": "💢┃爱奇艺┃[官网]",
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/爱奇艺.js"
     },
     {
     "key": "搜狗视频",
