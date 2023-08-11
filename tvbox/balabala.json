@@ -94,13 +94,6 @@
     "ext": "https://bjson.cf/tvbox/HDmoli.js"
     },
     {
-    "key": "csp_XYQHiker_哔嘀影视",
-    "name": "💢┃哔嘀影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/哔嘀影视.js"
-    },
-    {
     "key": "csp_XYQHiker_厂长影视",
     "name": "💢┃厂长影视┃请勿相信视频内广告",
     "type": 3,
@@ -109,7 +102,7 @@
     },
     {
     "key": "js 77",
-    "name": "💢┃酷云77┃请勿相信视频内广告",
+    "name": "💢┃酷云影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/酷云.js"
@@ -127,17 +120,6 @@
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
-    },
-    {
-    "key":"酷影",
-    "name":"💢┃酷影4K┃请勿相信视频内广告",
-    "type":3,
-    "api":"csp_AppYsV2",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":0,
-    "ext":"http://cms.maoyingshi.cc/api.php/app/",
-    "jar": "https://jxjson.cf/app.jar"
     },
     {
     "key":"drpy_js_酷狗MV",
