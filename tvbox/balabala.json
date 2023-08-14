@@ -32,12 +32,8 @@
     "key": "csp_XYQHiker_阿里",
     "name": "💢┃阿里影视┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_XYQHiker",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1,
-    "ext": "https://bjson.cf/tvbox/阿里.json",
-    "jar": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/jar/XYQ.jar;md5;f86699b3d256291716d8b31114f49a8e"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/阿里.js"
     },
     {
     "key": "csp_XYQHiker_厂长影视",
