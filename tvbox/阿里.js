@@ -4,7 +4,7 @@ var rule = {
 	title:'shzpin',
 	模板:'mxone5',
 	host:'https://www.shzpin.com',
-	url:'/vod/fyclass--------fypage---/',
+	url:'/vodshow/fyclass--------fypage---/',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
 	filter:{
