@@ -24,7 +24,7 @@ var rule = {
 
 	// searchUrl:'/search-**----------fypage---/',
 	searchUrl:'/index.php/ajax/suggest?mid=1&wd=**&limit=50',
-	detailUrl:'/v/fyid.html', //非必填,二级详情拼接链接
+	detailUrl:'/voddetail/fyid/', //非必填,二级详情拼接链接
 	二级访问前:'log(MY_URL);MY_URL=MY_URL.replace("/p","/v").replace("-1-1","")',
 	搜索:'json:list;name;pic;;id',
 }
