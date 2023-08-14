@@ -8,16 +8,6 @@
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
     {
-    "key": "csp_KungFu404",
-    "name":"🎦┃阿里云盘┃TOKEN设置",
-    "type": 3,
-    "api": "csp_KungFu404",
-    "searchable":1,
-    "filterable": 0,
-    "changeable":0,
-    "jar":"https://jxjson.cf/alibaba.jar"
-    },
-    {
     "key": "csp_WoGG",
     "name":"💢┃阿里云盘┃请勿相信视频内广告",
     "playerType":"3",
@@ -26,7 +16,7 @@
     "searchable":1,
     "filterable": 1,
     "changeable":1,
-    "jar":"https://qu.ax/UemB.jpg"
+    "jar":"https://jxjson.cf/ali.jar"
     },
     {
     "key": "csp_XYQHiker_阿里",
