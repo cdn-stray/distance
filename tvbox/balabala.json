@@ -194,11 +194,17 @@
         }
     ],
   "parses": [
-    {"name":"解析聚合","type":3,"url":"Demo"},
+    {
+      "name":"解析聚合",
+      "type":3,
+      "url":"Demo",
+      "jar": "https://jxjson.cf/juhe.jar"
+    },
     {
       "name": "Web聚合",
       "type": 3,
-      "url": "Web"
+      "url": "Web",
+      "jar": "https://jxjson.cf/juhe.jar"
     },
     {
       "name": "巴拉接口",
@@ -290,5 +296,4 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "spider": "https://jxjson.cf/XYQ.jar"
 }
