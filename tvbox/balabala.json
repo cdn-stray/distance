@@ -213,17 +213,17 @@
     }
     },
     {
-      "name": "虾米接口",
+      "name": "左岸接口",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
+      "url": "https://jx.777jiexi.com/player/?url=",
       "header":{
       "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
     }
     },
     {
-      "name": "左岸接口",
+      "name": "虾米接口",
       "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url=",
+      "url": "https://jx.xmflv.com/?url=",
       "header":{
       "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
     }
