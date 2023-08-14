@@ -29,11 +29,14 @@
     "jar":"https://jxjson.cf/ali3.jar"
     },
     {
-    "key": "阿里",
+    "key": "csp_XYQHiker_阿里",
     "name": "💢┃阿里影视┃请勿相信视频内广告",
     "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/阿里.js"
+    "api": "csp_XYQHiker",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1,
+    "ext": "https://bjson.cf/tvbox/阿里.json"
     },
     {
     "key": "csp_XYQHiker_厂长影视",
