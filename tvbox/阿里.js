@@ -5,8 +5,8 @@ var rule = {
 	模板:'mxone5',
 	host:'https://www.shzpin.com',
 	// url:'/vod/fyclass--------fypage---/',
-	url:'/vodshow/fyfilter.html',
 	hostJs:'print(HOST);let html=request(HOST,{headers:{"User-Agent":PC_UA}});let src=jsp.pdfh(html,".row:eq(1)&&a&&href");print(src);HOST=src',
+	url:'/vodshow/fyfilter.html',
 	filterable:1,//是否启用分类筛选,
 	filter_url:'{{fl.cateId}}-{{fl.area}}-{{fl.by}}-{{fl.class}}-{{fl.lang}}-{{fl.letter}}---fypage---{{fl.year}}',
 	filter:{
