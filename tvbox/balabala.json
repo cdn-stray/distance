@@ -38,6 +38,7 @@
     {
     "key": "csp_XBPQ_JOJO",
     "name": "💢┃JOJO┃请勿相信视频内广告",
+    "playerType":"3",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
