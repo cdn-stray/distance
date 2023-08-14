@@ -36,7 +36,8 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext": "https://bjson.cf/tvbox/阿里.json"
+    "ext": "https://bjson.cf/tvbox/阿里.json",
+    "spider": "https://jxjson.cf/csp_xBPQ1.jar"
     },
     {
     "key": "csp_XYQHiker_厂长影视",
