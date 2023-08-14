@@ -26,6 +26,7 @@
     "searchable":1,
     "filterable": 1,
     "changeable":1,
+    "ext": "http://127.0.0.1:9978/file/stray/token.txt$$$https://wogg.xyz/",
     "jar":"https://jxjson.cf/aliyunpan.jar"
     },
     {
