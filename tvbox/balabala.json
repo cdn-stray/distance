@@ -70,6 +70,13 @@
     "ext": "https://bjson.cf/tvbox/农民影视.js"
     },
     {
+    "key": "js 低端",
+    "name": "💢┃低端影视┃请勿相信视频内广告",
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/低端.js"
+    },
+    {
     "key": "drpy_js_腾讯",
     "name": "💢┃腾讯┃[官网]",
     "type": 3,
