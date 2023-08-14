@@ -18,7 +18,6 @@ var rule = {
 		lianxuju:{cateId:'lianxuju'},
 		zongyi:{cateId:'zongyi'},
 		dongman:{cateId:'dongman'},
-		jishi:{cateId:'jishi'}
 	},
 	class_parse: '.nav-menu-items&&li:gt(0):lt(6);a&&title;a&&href;.*/(.*?)/',
 	lazy:"js:var html=JSON.parse(request(input).match(/r player_.*?=(.*?)</)[1]);var url=html.url;if(html.encrypt=='1'){url=unescape(url)}else if(html.encrypt=='2'){url=unescape(base64Decode(url))}if(/m3u8|mp4/.test(url)){input=url}else{input}",
