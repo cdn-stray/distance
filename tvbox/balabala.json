@@ -177,11 +177,6 @@
       "url":"Demo"
     },
     {
-      "name": "Web聚合",
-      "type": 3,
-      "url": "Web"
-    },
-    {
       "name": "巴拉接口",
       "type": 1,
       "url": "https://api.jxjson.cf/api/?key=BriYDyAUiU6sSlgAwf&url=",
