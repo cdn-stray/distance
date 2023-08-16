@@ -198,7 +198,7 @@
       "type": 1,
       "url": "https://api.jxjson.cf/api/?key=BriYDyAUiU6sSlgAwf&url=",
       "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+      "User-Agent": "okhttp/4.9.3"
     }
     },
     {
@@ -206,7 +206,7 @@
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url=",
       "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+      "User-Agent": "okhttp/4.9.3"
     }
     },
     {
@@ -214,7 +214,7 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+      "User-Agent": "okhttp/4.9.3"
     }
     }
   ],
