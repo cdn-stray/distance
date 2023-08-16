@@ -113,8 +113,8 @@
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
     {
-    "key":"网盘搜索",
-    "name": "💢┃云盘搜索┃请勿相信视频内广告",
+    "key":"csp_PanSearch",
+    "name": "💢┃网盘搜索┃请勿相信视频内广告",
     "type": 3,
     "api": "csp_PanSearch",
     "searchable": 1,
@@ -123,10 +123,10 @@
     "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key":"yisou搜索",
-    "name": "💢┃网盘搜索┃请勿相信视频内广告",
+    "key":"csp_Dovx",
+    "name": "💢┃云盘搜索┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_YiSo",
+    "api": "csp_Dovx",
     "searchable": 1,
     "filterable": 1,
     "changeable": 0,
