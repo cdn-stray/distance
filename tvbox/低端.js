@@ -120,7 +120,7 @@ var rule={
         "img":".doulist-item&&img&&data-cfsrc",
         "desc":".published&&Text",
         "content":".abstract&&Text",
-        "tabs":"js:TABS=['国内2']",
+        "tabs":"js:TABS=['在线播放']",
 	"lists":lists
     },
     搜索:'#main&&article;.post-title&&Text;;.published&&Text;a&&href'
