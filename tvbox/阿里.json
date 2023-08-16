@@ -1,70 +1,74 @@
 {
-    "规则名": "shzpin",
-    "规则作者": "@流浪2023-8-14",
-    "请求头参数": "User-Agent$MOBILE_UA#Referer$WebView",
-    "网页编码格式": "UTF-8",
-    "图片是否需要代理": "0",
-    "是否开启获取首页数据": "1",
-    "首页推荐链接": "https://www.shzpin.com",
-    "首页列表数组规则": "body&&.module-items:has(.module-item-pic)",
-    "首页片单列表数组规则": ".module-item",
-    "首页片单是否Jsoup写法": "1",
-    "分类起始页码": "1",
-    "分类链接": "https://www.shzpin.com/vodshow/{cateId}.html",
-    "分类名称": "电影&电视剧&综艺&动漫",
-    "分类名称替换词": "20&26&21&22",
-    "筛选数据": "ext",
-    "筛选子分类名称": "",
-    "筛选子分类替换词": "",
-    "筛选类型名称": "",
-    "筛选类型替换词": "*",
-    "筛选年份名称": "",
-    "筛选年份替换词": "*",
-    "筛选排序名称": "时间&人气&评分",
-    "筛选排序替换词": "time&hits&score",
-    "分类截取模式": "1",
-    "分类列表数组规则": "body&&.module-item",
-    "分类片单是否Jsoup写法": "是",
-    "分类片单标题": ".module-poster-item-title&&Text",
-    "分类片单链接": "a&&href",
-    "分类片单图片": ".lazyload&&data-original",
-    "分类片单副标题": ".module-item-douban||.module-item-note&&Text",
-    "分类片单链接加前缀": "https://www.shzpin.com",
-    "分类片单链接加后缀": "",
-    "搜索请求头参数": "User-Agent$MOBILE_UA",
-    "搜索链接": "https://www.shzpin.com/vodsearch/{wd}----------1---.html",
-    "POST请求数据": "",
-    "搜索截取模式": "1",
-    "搜索列表数组规则": "body&&.module-item",
-    "搜索片单是否Jsoup写法": "1",
-    "搜索片单图片": ".lazyload&&data-original",
-    "搜索片单标题": ".module-card-item-title&&Text",
-    "搜索片单链接": "a&&href",
-    "搜索片单副标题": ".module-item-note&&Text",
-    "搜索片单链接加前缀": "https://www.shzpin.com",
-    "搜索片单链接加后缀": "",
-    "链接是否直接播放": "0",
-    "直接播放链接加前缀": "",
-    "直接播放链接加后缀": "#isVideo=true#",
-    "直接播放直链视频请求头": "",
-    "详情是否Jsoup写法": "0",
-    "类型详情": "",
-    "年代详情": "",
-    "地区详情": "",
-    "演员详情": "主演：</span>&&</div>",
-    "简介详情": "introduction-content\">&&</p>",
-    "线路列表数组规则": "#y-playList&&.module-tab-item",
-    "线路标题": "Text",
-    "播放列表数组规则": "body&&.module-play-list-content",
-    "选集列表数组规则": "a",
-    "选集标题链接是否Jsoup写法": "1",
-    "选集标题": "a&&Text",
-    "选集链接": "a&&href",
-    "是否反转选集序列": "0",
-    "选集链接加前缀": "https://www.shzpin.com",
-    "选集链接加后缀": "",
-    "分析MacPlayer": "2",
-    "是否开启手动嗅探": "1",
-    "手动嗅探视频链接关键词": ".mp4#.m3u8#.flv",
-    "手动嗅探视频链接过滤词": ".html#=http"
+	"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36 Edg/107.0.1418.56",
+    // 首页地址 用于获取 分类和首页推荐
+	"homeUrl": "https://wogg.xyz/",
+    // 手动设置分类，如果手动设置了分类则不使用上面的分类xpath获取分类  例如 "cateManual": {"电影": "1", "电视剧": "2"},
+	"cateManual": {"自营电影":"1","自营电视剧":"20","综艺":"28","动漫":"24","音乐":"32"},
+    // 分类页地址 {cateId} 分类id {catePg} 当前页
+	"cateUrl": "https://wogg.xyz/index.php/vodshow/{cateId}--------{catePg}---.html",
+    // 同上面的homeVod字段 分类列表中的视频信息
+	"cateVodNode": "//div[@class='module-items']/div",
+	"cateVodName": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@title",
+	"cateVodId": "/div[@class='module-item-cover']/div[@class='module-item-pic']/a/@href",
+	//"cateVodIdR": "/k/(\\w+)/",
+	"cateVodImg": "/div[@class='module-item-cover']/div[@class='module-item-pic']/img/@data-src",
+	"cateVodMark": "//div[@class='module-item-text']/text()",
+	//"cateVodMark": "/div[@class='module-item-cover']/div[@class='module-item-caption']/span/text()",
+	 // 详情页地址 用于获取详情页信息 及 播放列表和地址
+	"dtUrl": "https://wogg.xyz{vid}",
+    // 详情节点
+	"dtNode": "//div[@class='box view-heading']",
+    // 视频名
+	"dtName": "/div[2]/div/div/img/@alt",
+	    // 视频图片
+	"dtImg": "/div[2]/div/div/img/@data-src",
+    // 视频分类
+	//"dtCate": "//span[contains(text(), '分类：')]/following-sibling::a/text()",
+	//"dtCateR": "",
+    // 视频年份
+	"dtYear": "/div[3]/div[2]/div[3]/div/a/text()",
+	//"dtYearR": "",
+    // 视频地区
+	//"dtArea": "//span[contains(text(), '地区：')]/following-sibling::a/text()",
+	//"dtAreaR": "",
+    // 视频状态
+	//"dtMark": "//span[contains(text(), '更新：')]/following-sibling::a/text()",
+	//"dtMarkR": "",
+    // 主演
+	"dtActor": "/div[3]/div[2]/div[2]/div/a/text()",
+	//"dtActorR": "",
+    // 导演
+	"dtDirector": "/div[3]/div[2]/div[1]/div/a/text()",
+	//"dtDirectorR": "",
+    // 视频简介
+	"dtDesc": "/div[3]/div[2]/div[5]/div/p[2]/text()",
+	//"dtDescR": "",
+    // 播放源节点
+	"dtFromNode": "//div[@class='module-tab-content']/div",
+    // 播放源名称
+	"dtFromName": "/span/text()",
+    // 二次处理正则
+	//"dtFromNameR": "",
+    // 播放列表节点  ///../../following-sibling::div/ul
+	"dtUrlNode": "//div[@class='scroll-box-y']/div",
+    // 播放地址节点
+	"dtUrlSubNode": "/div/a",
+    // 播放地址
+	"dtUrlId": "/@data-clipboard-text",
+    // 二次处理正则
+	//"dtUrlIdR": "",
+    // 剧集名称
+	"dtUrlName": "/div/h4/text()",
+    // 二次处理正则
+	//"dtUrlNameR": "",
+	// 播放页面的地址 {playUrl} 对应上面 dtUrlId 获取到的地址
+	"playUrl": "{playUrl}",
+	//搜索
+	"searchUrl": "https://wogg.xyz/index.php/vodsearch/-------------.html?wd={wd}",
+    "scVodNode": "//div[@class='module-items']/div",
+    "scVodName": "/div[@class='video-info']/div[@class='video-info-header']/a/@title",
+    "scVodId": "/div[@class='video-info']/div[@class='video-info-header']/a/@href",
+    //"scVodIdR": "/voddetail/(\\w+).html",
+    "scVodImg": "/div[@class='video-cover']/div/div/img/@data-src",
+    "scVodMark": "/div[@class='video-info']/div[@class='video-info-header']/a/text()"
 }
