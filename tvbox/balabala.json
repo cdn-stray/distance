@@ -2,14 +2,14 @@
   "sites": [
     {
     "key": "js豆瓣",
-    "name": "🍥┃豆瓣榜单┃🍥",
+    "name": "🍥┃豆瓣榜单┃请给APP存储权限🍥",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
     {
     "key":"AliYunPan",
-    "name":"🎦┃阿里签到┃先给APP存储权限",
+    "name":"🍥┃阿里云盘签到┃🍥",
     "type":3,
     "api":"csp_AliYunPan",
     "searchable":0,
@@ -19,7 +19,7 @@
     },
     {
     "key": "csp_XPathAli",
-    "name":"💢┃阿里云盘┃先给APP存储权限",
+    "name":"💢┃阿里云盘┃请勿相信视频内广告",
     "playerType":"3",
     "type": 3,
     "api": "csp_XPathAli",
