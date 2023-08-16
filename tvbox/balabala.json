@@ -7,10 +7,19 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
-    {"key":"AliYunPan","name":"🅱️网盘登录|T签到","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/balabala/token.txt","jar":"https://jxjson.cf/app.jar"},
+    {
+    "key":"AliYunPan",
+    "name":"🎦┃阿里签到┃先给APP存储权限",
+    "type":3,
+    "api":"csp_AliYunPan",
+    "searchable":0,
+    "filterable":0,
+    "ext":"http://127.0.0.1:9978/file/balabala/token.txt",
+    "jar":"https://jxjson.cf/app.jar"
+    },
     {
     "key": "csp_XPathAli",
-    "name":"💢┃阿里云盘┃请勿相信视频内广告",
+    "name":"💢┃阿里云盘┃先给APP存储权限",
     "playerType":"3",
     "type": 3,
     "api": "csp_XPathAli",
