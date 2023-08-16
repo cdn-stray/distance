@@ -189,6 +189,11 @@
       "url":"Demo"
     },
     {
+      "name": "Web聚合",
+      "type": 3,
+      "url": "Web"
+    },
+    {
       "name": "巴拉接口",
       "type": 1,
       "url": "https://api.jxjson.cf/api/?key=BriYDyAUiU6sSlgAwf&url=",
@@ -198,8 +203,8 @@
     },
     {
       "name": "左岸接口",
-      "type": 1,
-      "url": "http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&mgtv=app&url=",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url=",
       "header":{
       "User-Agent": "okhttp/4.9.3"
     }
