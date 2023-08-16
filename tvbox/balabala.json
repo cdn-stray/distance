@@ -112,6 +112,56 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
+        {
+    "key":"csp_QQ",
+    "name": "💢┃QQ┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_QQ",
+    "searchable":1,
+    "filterable": 1,
+    "changeable":1,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+            {
+    "key":"csp_CCTV",
+    "name": "💢┃CCTV┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_CCTV",
+    "searchable":1,
+    "filterable": 1,
+    "changeable":1,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+        {
+    "key":"csp_IQIYI",
+    "name": "💢┃IQIYI┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_IQIYI",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+        {
+    "key":"csp_MGTV",
+    "name": "💢┃MGTV┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_MGTV",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 1,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+        {
+    "key":"csp_YOUKU",
+    "name": "💢┃YOUKU┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_YOUKU",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "jar":"https://jxjson.cf/app.jar"
+    },
     {
     "key":"csp_PanSearch",
     "name": "💢┃网盘搜索┃请勿相信视频内广告",
