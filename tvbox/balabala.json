@@ -7,7 +7,7 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
-    {"key":"AliYunPan","name":"🅱️网盘登录|T签到","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/balabala/token.txt","jar":"https://jxjson.cf/app.jar"},
+    {"key":"AliYunPan","name":"🅱️网盘登录|T签到","type":3,"api":"csp_AliYunPan","searchable":0,"filterable":0,"ext":"http://127.0.0.1:9978/file/balabala/token.txt","jar":"http://rihou.vip:88/hccx/HeChengChaXiu.jar"},
     {
     "key":"Wogg",
     "name":"💢┃阿里云盘┃请勿相信视频内广告",
