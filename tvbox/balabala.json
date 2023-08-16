@@ -16,7 +16,7 @@
     "filterable": 1,
     "changeable":1,
     "ext": "http://127.0.0.1:9978/file/balabala/token.txt",
-    "jar":"https://jxjson.cf/csp_xBPQ.jar"
+    "jar":"https://ghproxy.com/https://raw.githubusercontent.com/cdn-stray/CatVodSpider/main/jar/custom_spider.jar"
     },
     {
     "key": "csp_XYQHiker_厂长影视",
