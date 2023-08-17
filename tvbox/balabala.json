@@ -20,7 +20,7 @@
     {
     "key": "csp_XPathAli",
     "name":"💢┃阿里云盘┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
     "api": "csp_XPathAli",
     "searchable":1,
