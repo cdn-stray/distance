@@ -216,7 +216,7 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://api.jxjson.cf/api/?key=BriYDyAUiU6sSlgAwf&url=",
+      "url": "https://jxjson.cf/json.php?url=",
       "header":{
       "User-Agent": "okhttp/4.9.3"
     }
