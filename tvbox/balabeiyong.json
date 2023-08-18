@@ -1,35 +1,36 @@
 {
   "sites": [
     {
-    "key": "js豆瓣",
-    "name": "🍥┃豆瓣榜单┃🍥",
+    "key": "drpy_js_豆瓣",
+    "name": "🍥┃豆瓣榜单┃请给APP存储权限🍥",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/douban.js"
     },
     {
-    "key": "csp_KungFu404",
-    "name":"🎦┃阿里云盘┃token设置",
-    "type": 3,
-    "api": "csp_KungFu404",
-    "searchable":1,
-    "filterable": 0,
-    "changeable":0,
-    "jar":"https://jxjson.cf/alibaba.jar"
+    "key":"AliYunPan",
+    "name":"🍥┃阿里云盘签到┃🍥",
+    "type":3,
+    "api":"csp_AliYunPan",
+    "searchable":0,
+    "filterable":0,
+    "ext":"http://127.0.0.1:9978/file/balabala/token.txt",
+    "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key": "csp_WoGG",
+    "key": "csp_XPathAli",
     "name":"💢┃阿里云盘┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
-    "api": "csp_WoGG",
+    "api": "csp_XPathAli",
     "searchable":1,
     "filterable": 1,
     "changeable":1,
-    "jar":"https://jxjson.cf/ali3.jar"
+    "ext":"https://bjson.cf/tvbox/阿里.json",
+    "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key": "csp_XYQHiker_厂长影视",
+    "key": "drpy_js_厂长影视",
     "name": "💢┃厂长影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -38,53 +39,33 @@
     {
     "key": "csp_XBPQ_JOJO",
     "name": "💢┃JOJO┃请勿相信视频内广告",
+    "playerType":"3",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": {
-    "二次截取": "class=\"content-body\"&&class=\"content-lift\"",
-    "数组": "<a&&</a>",
-    "图片": "src=\"&&\"",
-    "标题": "class=\"card-title\">&&</p>",
-    "副标题": "class=\"item-speed\">&&</p>",
-    "链接": "href=\"&&\"",
-    "播放数组": "class=\"plyr-sidebar-list&&</div>",
-    "嗅探词": "aliyundrive.net#cn-beijing-data.aliyundrive.net#alicloudccp.com#srcurity-token",
-    "搜索url": "https://app.syrme.top/video/search?q={wd}",
-    "分类": "电影$电影#美剧$美剧#日剧$日剧#韩剧$韩剧#动漫$动漫#纪录$纪录",
-    "分类url": "https://app.syrme.top/video/type/tag?type={cateId}&tag=&page={catePg}&size=18;;u0"
-    }
+    "ext": "https://bjson.cf/tvbox/JOJO.json",
+    "jar": "https://jxjson.cf/csp_xBPQ.jar"
     },
     {
-    "key": "低端",
-    "name": "💢┃低端影视┃请勿相信视频内广告",
+    "key": "csp_XBPQr_素白影视",
+    "name": "💢┃素白影视┃请勿相信视频内广告",
     "type": 3,
+    "api": "csp_XBPQ",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://bjson.cf/tvbox/素白.json",
+    "jar": "https://jxjson.cf/csp_xBPQ.jar"
+    },
+    {
+    "key": "drpy_js_低端",
+    "name": "💢┃低端影视┃请勿相信视频内广告",
     "playerType":"2",
+    "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/低端.js"
-    },
-    {
-    "key": "csp_XYQHiker_HDmoli影视",
-    "name": "💢┃HDmoli┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/HDmoli.js"
-    },
-    {
-    "key": "js 77",
-    "name": "💢┃酷云影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/酷云.js"
-    },
-    {
-    "key": "js 农民",
-    "name": "💢┃农民影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/农民影视.js"
     },
     {
     "key": "drpy_js_腾讯",
@@ -94,7 +75,7 @@
     "ext": "https://bjson.cf/tvbox/腾讯.js"
     },
     {
-    "key": "芒果",
+    "key": "drpy_js_芒果",
     "name": "💢┃芒果TV┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -115,14 +96,34 @@
     "ext": "https://bjson.cf/tvbox/爱奇艺.js"
     },
     {
-    "key": "搜狗视频",
+    "key": "drpy_js_搜狗视频",
     "name": "💢┃搜狗视频┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
     {
-    "key":"js虎牙",
+    "key":"csp_PanSearch",
+    "name": "💢┃网盘搜索┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_PanSearch",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+    {
+    "key":"csp_UpYun",
+    "name": "💢┃云盘搜索┃请勿相信视频内广告",
+    "type": 3,
+    "api": "csp_UpYun",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+    {
+    "key":"drpy_js_虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
@@ -132,7 +133,7 @@
     "filterable": 0
     },
     {
-    "key":"js斗鱼",
+    "key":"drpy_js_斗鱼",
     "name":"🐟┃斗鱼┃直播",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
@@ -142,7 +143,7 @@
     "filterable": 0
     },
     {
-    "key":"有声小说js",
+    "key":"drpy_js_有声小说",
     "name":"🎧┃有声┃小说",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
@@ -192,7 +193,11 @@
         }
     ],
   "parses": [
-    {"name":"解析聚合","type":3,"url":"Demo"},
+    {
+      "name":"解析聚合",
+      "type":3,
+      "url":"Demo"
+    },
     {
       "name": "Web聚合",
       "type": 3,
@@ -201,17 +206,9 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://api.jxjson.cf/api/?key=BriYDyAUiU6sSlgAwf&url=",
+      "url": "https://jxjson.cf/json.php?url=",
       "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
-    }
-    },
-    {
-      "name": "虾米接口",
-      "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+      "User-Agent": "okhttp/4.9.3"
     }
     },
     {
@@ -219,7 +216,7 @@
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url=",
       "header":{
-      "Referer":"https://w.mgtv.com/","Host":"titan.mgtv.com","Origin":"https://w.mgtv.com","User-Agent":"ios Edg/112.0.0.0"
+      "User-Agent": "okhttp/4.9.3"
     }
     }
   ],
@@ -288,5 +285,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-  "spider": "https://jxjson.cf/csp_xBPQ.jar"
+"spider": "https://jxjson.cf/balabala.jar"
 }
