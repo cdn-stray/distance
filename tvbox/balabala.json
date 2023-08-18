@@ -1,7 +1,7 @@
 {
   "sites": [
     {
-    "key": "js豆瓣",
+    "key": "drpy_js_豆瓣",
     "name": "🍥┃豆瓣榜单┃请给APP存储权限🍥",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -30,7 +30,7 @@
     "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key": "csp_XYQHiker_厂长影视",
+    "key": "drpy_js_厂长影视",
     "name": "💢┃厂长影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -60,7 +60,7 @@
     "jar": "https://jxjson.cf/csp_xBPQ.jar"
     },
     {
-    "key": "js 低端",
+    "key": "drpy_js_低端",
     "name": "💢┃低端影视┃请勿相信视频内广告",
     "playerType":"2",
     "type": 3,
@@ -75,7 +75,7 @@
     "ext": "https://bjson.cf/tvbox/腾讯.js"
     },
     {
-    "key": "芒果",
+    "key": "drpy_js_芒果",
     "name": "💢┃芒果TV┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -96,7 +96,7 @@
     "ext": "https://bjson.cf/tvbox/爱奇艺.js"
     },
     {
-    "key": "搜狗视频",
+    "key": "drpy_js_搜狗视频",
     "name": "💢┃搜狗视频┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -123,7 +123,7 @@
     "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key":"js虎牙",
+    "key":"drpy_js_虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
@@ -133,7 +133,7 @@
     "filterable": 0
     },
     {
-    "key":"js斗鱼",
+    "key":"drpy_js_斗鱼",
     "name":"🐟┃斗鱼┃直播",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
@@ -143,7 +143,7 @@
     "filterable": 0
     },
     {
-    "key":"有声小说js",
+    "key":"drpy_js_有声小说",
     "name":"🎧┃有声┃小说",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
