@@ -60,20 +60,6 @@
     "jar": "https://jxjson.cf/csp_xBPQ.jar"
     },
     {
-    "key": "js 77",
-    "name": "💢┃酷云影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/酷云.js"
-    },
-    {
-    "key": "js 农民",
-    "name": "💢┃农民影视┃请勿相信视频内广告",
-    "type": 3,
-    "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/农民影视.js"
-    },
-    {
     "key": "js 低端",
     "name": "💢┃低端影视┃请勿相信视频内广告",
     "playerType":"2",
