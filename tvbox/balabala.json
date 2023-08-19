@@ -95,6 +95,7 @@
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/爱奇艺.js"
     },
+    {"key":"csp_IQY","name":"💢┃爱奇艺┃[官网]","type":3,"api":"csp_IQY","searchable":1,"quickSearch":1,"filterable":1,"changeable":0,"jar":"https://jxjson.cf/app.jar"},
     {
     "key": "drpy_js_搜狗视频",
     "name": "💢┃搜狗视频┃[官网]",
