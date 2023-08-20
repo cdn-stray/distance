@@ -20,7 +20,7 @@
     {
     "key": "csp_XPathAli",
     "name":"💢┃阿里云盘┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
     "api": "csp_XPathAli",
     "searchable":1,
@@ -39,7 +39,7 @@
     {
     "key": "csp_XBPQ_JOJO",
     "name": "💢┃JOJO┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -105,7 +105,7 @@
     {
     "key":"csp_PanSearch",
     "name": "💢┃网盘搜索┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
     "api": "csp_PanSearch",
     "searchable": 1,
@@ -116,7 +116,7 @@
     {
     "key":"csp_UpYun",
     "name": "💢┃云盘搜索┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
     "api": "csp_UpYun",
     "searchable": 1,
@@ -159,7 +159,9 @@
     "name":"🎧┃广播┃电台",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
-    "changeable":0,
+    "searchable": 0,
+    "quickSearch": 0,
+    "changeable":0
     "ext":"https://bjson.cf/tvbox/蜻蜓FM.js"
     },
     {
