@@ -70,7 +70,6 @@
     {
     "key": "drpy_js_腾讯",
     "name": "💢┃腾讯┃[官网]",
-    "playerType":"3",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/腾讯.js"
