@@ -49,15 +49,11 @@
     "jar": "https://jxjson.cf/csp_xBPQ.jar"
     },
     {
-    "key": "csp_XBPQr_素白影视",
-    "name": "💢┃素白影视┃请勿相信视频内广告",
+    "key": "drpy_js_农民影视",
+    "name": "┃农民影视┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_XBPQ",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://bjson.cf/tvbox/素白.json",
-    "jar": "https://jxjson.cf/csp_xBPQ.jar"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/农民影视.js"
     },
     {
     "key": "drpy_js_低端",
