@@ -13,7 +13,7 @@ var rule = {
     searchable:2,//是否启用全局搜索,
     quickSearch:0,//是否启用快速搜索,
     headers:{
-        'User-Agent': 'MOBILE_UA',
+        'User-Agent': 'UC_UA',
         'Cookie': 'esc_search_captcha=1'
     },
     // class_parse:'.navlist&&li;a&&Text;a&&href;.*/(\\w+)',
