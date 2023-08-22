@@ -214,8 +214,8 @@
     {
       "name": "虾米接口",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-    },
+      "url": "https://jx.xmflv.com/?url="
+    }
   ],
 "rules": [
         {
