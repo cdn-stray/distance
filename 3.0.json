@@ -215,9 +215,6 @@
       "name": "虾米接口",
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
-      "header":{
-      "User-Agent": "okhttp/4.9.3"
-    }
     }
   ],
 "rules": [
