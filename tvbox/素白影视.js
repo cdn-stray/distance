@@ -14,7 +14,7 @@ var rule = {
     quickSearch:0,//是否启用快速搜索,
     headers:{
         'User-Agent': 'UC_UA',
-        'Cookie': 'esc_search_captcha=1'
+        'Cookie': '__51vcke__JkC3MdljYqnA6RwM=22ab580a-4133-5c1c-b198-f976b4eeac8e; __51vuft__JkC3MdljYqnA6RwM=1692686047839; myannoun=1; Hm_lvt_1e486798fa22a371daf12107dc56f374=1692686043,1692716967; esc_search_captcha=1; result=46; 95e819d75c1e861570ef4e812a96a74b=a81e5c58ff68a8c553647191b2502f4a; wordpress_logged_in_3eba096b078f0a37442e539506ddc5ea=1231456%7C1692892509%7CxfqZlAY634F9h4X3pL5VKkQNRkXanQhaTNYRvj8pWt8%7C4a05cc0a03242573458c52eeca298fe7e7fee2fe00e288688f5e1e4868d711c3; wpdiscuz_nonce_3eba096b078f0a37442e539506ddc5ea=4248ee9917; __vtins__JkC3MdljYqnA6RwM=%7B%22sid%22%3A%20%223e1ebeb0-53c5-5f8a-be5f-d2c30e8ad23d%22%2C%20%22vd%22%3A%201%2C%20%22stt%22%3A%200%2C%20%22dr%22%3A%200%2C%20%22expires%22%3A%201692721802090%2C%20%22ct%22%3A%201692720002090%7D; __51uvsct__JkC3MdljYqnA6RwM=3; Hm_lpvt_1e486798fa22a371daf12107dc56f374=1692720205'
     },
     // class_parse:'.navlist&&li;a&&Text;a&&href;.*/(\\w+)',
     class_name:'影视筛选&电影&电视剧&热门电影&高分电影&动漫电影&香港经典电影&国产剧&欧美剧&韩剧&动漫剧&漫威宇宙电影系列&速度与激情电影系列&007系列(25部正传+2部外传)',//静态分类名称拼接
