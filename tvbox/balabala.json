@@ -220,14 +220,6 @@
       "header":{
       "User-Agent": "okhttp/4.9.3"
     }
-    },
-    {
-      "name": "左岸接口",
-      "type": 0,
-      "url": "https://jx.777jiexi.com/player/?url=",
-      "header":{
-      "User-Agent": "okhttp/4.9.3"
-    }
     }
   ],
 "rules": [
