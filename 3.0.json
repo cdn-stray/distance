@@ -50,13 +50,13 @@
     },
     {
     "key": "csp_XBPQr_素白影视",
-    "name": "┃素白影视┃请勿相信视频内广告",
+    "name": "┃子子影视┃请勿相信视频内广告",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://bjson.cf/tvbox/素白.json",
+    "ext": "https://bjson.cf/tvbox/子子.json",
     "jar": "https://jxjson.cf/csp_xBPQ.jar"
     },
     {
