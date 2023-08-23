@@ -215,11 +215,6 @@
       "name": "虾米接口",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
-    },
-    {
-      "name": "aiku接口",
-      "type": 0,
-      "url": "https://jx.zhanlangbu.com/?url="
     }
   ],
 "rules": [
