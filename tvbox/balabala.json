@@ -206,7 +206,7 @@
       "type": 1,
       "url": "https://jxjson.cf/json.php?url=",
       "header":{
-      "User-Agent": "okhttp/4.9.3"
+      "User-Agent": "dart:io"
     }
     },
     {
@@ -214,7 +214,7 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url=",
       "header":{
-      "User-Agent": "okhttp/4.9.3"
+      "User-Agent": "dart:io"
     }
     }
   ],
