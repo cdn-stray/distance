@@ -210,15 +210,6 @@
       "header":{
       "User-Agent": "dart:io"
     }
-    },
-        {
-      "name": "cs",
-      "type": 1,
-      "url": "https://jxjson.cf/cs1.php?url=",
-      "header":{
-      "User-Agent": "dart:io"
-    }
-    },
     {
       "name": "虾米接口",
       "type": 0,
