@@ -454,7 +454,6 @@ CETV-4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226225/index.m3u8
 西藏卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226212/index.m3u8?
 新疆卫视,http://221.213.43.82:8888/newlive/live/hls/38/live.m3u8
 新疆卫视,http://111.59.63.32:9901/tsfile/live/1039_1.m3u8
-内蒙古卫视,http://v2.91kds.cn/b9/hoge.m3u8?ip=nmtv&id=92&auth=rinimabi
 内蒙古卫视,http://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
 内蒙古卫视,http://111.59.63.32:9901/tsfile/live/1038_1.m3u8
 南国都市4K,https://justsometime.gztv.com/sec/shenghuos.m3u8
@@ -489,8 +488,6 @@ CCTV-13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-14,https://live.goodiptv.club/api/bestv.php?id=cctvsehd8m/8000000
 CCTV-15,https://live.goodiptv.club/api/bestv.php?id=cctv15hd8m/8000000
 CCTV-16,https://live.goodiptv.club/api/bestv.php?id=cctv16hd8m/8000000
-CCTV-16-4K,https://live.goodiptv.club/api/bestv.php?id=cctv16hd4k/15000000
-CCTV-4K,https://live.goodiptv.club/api/bestv.php?id=cctv4k/15000000
 CCTV-17,https://live.goodiptv.club/api/bestv.php?id=cctv17hd8m/8000000
 
 
@@ -654,7 +651,6 @@ TVBS星河,http://r.jdshipin.com/sXuuD
 哈哈炫动,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226213/index.m3u8
 南京少兒,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
 浙江少兒,http://hw-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8?k=1a7559a51eeb880b021619a07f463ac4&t=1577153787
-嘉佳卡通,http://v2.91kds.cn/b9/itouchtv.m3u8?id=gdjjkt&auth=rinimabi
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
 浙江少儿,http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
 南京少儿,http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
