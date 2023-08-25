@@ -112,7 +112,7 @@ CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.
 内蒙古卫视,http://222.71.90.218:8888/newlive/live/hls/46/live.m3u8
 新疆卫视,http://222.71.90.218:8888/newlive/live/hls/47/live.m3u8
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
-河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
+河南卫视,http://221.213.43.82:8888/newlive/live/hls/33/live.m3u8
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 南方卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8?
@@ -149,7 +149,6 @@ CCTV17,http://cyz32.livehbindex.hbcatv.cn/live/500000208b8d41c4b436ef32428c229d.
 农林卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226229/index.m3u8
 
 
-央卫综合,#genre#
 CCTV1,http://60.255.120.30:89/live2/live2.m3u8
 CCTV1,http://111.59.63.32:9901/tsfile/live/1008_1.m3u8
 CCTV1,http://221.213.43.82:8888/newlive/live/hls/2/live.m3u8
@@ -252,7 +251,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 深圳卫视,https://live.goodiptv.club/api/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8?
 深圳卫视,http://221.213.43.82:8888/newlive/live/hls/28/live.m3u8
-深圳卫视,http://api3.52tb.xyz/info?id=28&token=20230227aesvnb
 深圳卫视,http://111.59.63.32:9901/tsfile/live/1033_1.m3u8
 北京卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
 北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225796/index.m3u8?
@@ -268,7 +266,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 广东卫视,http://111.59.63.32:9901/tsfile/live/1032_1.m3u8
 广东卫视,http://221.213.43.82:8888/newlive/live/hls/21/live.m3u8
 东南卫视,https://live.goodiptv.club/api/bestv.php?id=dnwshd8m/8000000
-东南卫视,http://api3.52tb.xyz/info?id=29&token=20230227aesvnb
 湖北卫视,http://221.213.43.82:8888/newlive/live/hls/34/live.m3u8
 湖北卫视,http://111.59.63.32:9901/tsfile/live/1044_1.m3u8
 湖北卫视,https://live.goodiptv.club/api/bestv.php?id=hubeiws8m/8000000
@@ -280,8 +277,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 四川卫视,http://221.213.43.82:8888/newlive/live/hls/32/live.m3u8
 山东卫视,https://live.goodiptv.club/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://221.213.43.82:8888/newlive/live/hls/30/live.m3u8
-河南卫视,https://live.goodiptv.club/api/bestv.php?id=hnwshd8m/8000000
-河南卫视,http://api3.52tb.xyz/info?id=31&token=20230227aesvnb
 河南卫视,http://221.213.43.82:8888/newlive/live/hls/33/live.m3u8
 河南卫视,http://media.hndyjyfw.gov.cn/live/jz-hnweishi/live.m3u8
 河北卫视,https://live.goodiptv.club/api/bestv.php?id=hbwshd8m/8000000
@@ -298,7 +293,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 海南卫视,https://live.goodiptv.club/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
 海南卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8?
-海南卫视,http://api3.52tb.xyz/info?id=38&token=20230227aesvnb
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8?
 黑龙江卫视,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
 黑龙江卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225802/index.m3u8
@@ -310,7 +304,6 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 辽宁卫视,https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://221.213.43.82:8888/newlive/live/hls/43/live.m3u8
 吉林卫视,https://live.goodiptv.club/api/bestv.php?id=jlwshd8m/8000000
-吉林卫视,http://api3.52tb.xyz/info?id=40&token=20230227aesvnb
 吉林卫视,http://111.59.63.32:9901/tsfile/live/1043_1.m3u8
 吉林卫视,http://221.213.43.82:8888/newlive/live/hls/35/live.m3u8
 云南卫视,https://live.goodiptv.club/api/bestv.php?id=ynwshd8m/8000000
