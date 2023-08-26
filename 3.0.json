@@ -64,6 +64,13 @@
     "ext": "https://bjson.cf/tvbox/低端.js"
     },
     {
+    "key": "drpy_js_农民影视",
+    "name": "┃农民影视┃请勿相信视频内广告",
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/农民影视.js"
+    },
+    {
     "key": "drpy_js_腾讯",
     "name": "┃腾讯视频┃[官网]",
     "type": 3,
@@ -104,17 +111,6 @@
     "playerType":"1",
     "type": 3,
     "api": "csp_PanSearch",
-    "searchable": 1,
-    "filterable": 1,
-    "changeable": 0,
-    "jar":"https://jxjson.cf/app.jar"
-    },
-    {
-    "key":"csp_UpYun",
-    "name": "┃云盘搜索┃请勿相信视频内广告",
-    "playerType":"1",
-    "type": 3,
-    "api": "csp_UpYun",
     "searchable": 1,
     "filterable": 1,
     "changeable": 0,
