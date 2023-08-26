@@ -117,6 +117,47 @@
     "jar":"https://jxjson.cf/app.jar"
     },
     {
+    "key":"csp_Zhaozy",
+    "name": "┃云盘搜索┃请勿相信视频内广告",
+    "playerType":"1",
+    "type": 3,
+    "api": "csp_Zhaozy",
+    "searchable": 1,
+    "filterable": 1,
+    "changeable": 0,
+    "jar":"https://jxjson.cf/app.jar"
+    },
+    {
+    "key": "量子资源",
+    "name": "┃量子资源┃请勿相信视频内广告",
+    "type": 1,
+    "api": "http://124.222.228.238:21323/api.php/provide/vod/from/lzm3u8/at/?ac=list",
+    "playurl": "json:https://jxjson.cf/json.php?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+    },
+    {
+    "key": "暴风资源",
+    "name": "┃暴风资源┃请勿相信视频内广告",
+    "type": 1,
+    "api": "http://124.222.228.238:21323/api.php/provide/vod/from/bfzym3u8/at/?ac=list",
+    "playurl": "json:https://jxjson.cf/json.php?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+    },
+    {
+    "key": "非凡资源",
+    "name": "┃非凡资源┃请勿相信视频内广告",
+    "type": 1,
+    "api": "http://124.222.228.238:21323/api.php/provide/vod/from/ffm3u8/at/?ac=list",
+    "playurl": "json:https://jxjson.cf/json.php?url=",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+    },
+    {
     "key":"drpy_js_虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
