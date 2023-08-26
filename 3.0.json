@@ -64,11 +64,11 @@
     "ext": "https://bjson.cf/tvbox/低端.js"
     },
     {
-    "key": "drpy_js_农民影视",
-    "name": "┃农民影视┃请勿相信视频内广告",
+    "key": "drpy_js_哔嘀影视",
+    "name": "┃哔嘀影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
-    "ext": "https://bjson.cf/tvbox/农民影视.js"
+    "ext": "https://bjson.cf/tvbox/哔嘀影视.js"
     },
     {
     "key": "drpy_js_腾讯",
