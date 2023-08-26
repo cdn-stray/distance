@@ -94,6 +94,7 @@
     {
     "key": "drpy_js_搜狗视频",
     "name": "┃搜狗视频┃[官网]",
+    "playerType":"2",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
