@@ -13,7 +13,7 @@ var rule = {
     quickSearch: 0,//是否启用快速搜索,
     headers: {
         'User-Agent': 'MOBILE_UA',
-	'Cookie': 'Hm_lvt_c9b76ec019af3eaacdf8d563f021d5f5=1693036345; _ga=GA1.1.24880657.1693036346; JSESSIONID=pjeamBzRidrM39A-Q3fByU_3jivhKkOLvdqSYjUy; password=E10ADC3949BA59ABBE56E057F20F883E; username=123456; _ga_X18Z64JLZR=GS1.1.1693036345.1.1.1693036537.0.0.0; Hm_lpvt_c9b76ec019af3eaacdf8d563f021d5f5=1693036538'
+	'Cookie': 'Hm_lvt_c9b76ec019af3eaacdf8d563f021d5f5=1999999999; _ga=GA1.1.24880657.1999999999; JSESSIONID=pjeamBzRidrM39A-Q3fByU_3jivhKkOLvdqSYjUy; password=E10ADC3949BA59ABBE56E057F20F883E; username=123456; _ga_X18Z64JLZR=GS1.1.1999999999.1.1.1999999999.0.0.0; Hm_lpvt_c9b76ec019af3eaacdf8d563f021d5f5=1999999999'
     },
     play_parse: true,
     lazy: '',
