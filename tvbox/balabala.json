@@ -19,8 +19,8 @@
     },
     {
     "key": "csp_XPathAli",
-    "name":"💢┃阿里云盘┃请勿相信视频内广告",
-    "playerType":"3",
+    "name":"┃阿里云盘┃请勿相信视频内广告",
+    "playerType":"1",
     "type": 3,
     "api": "csp_XPathAli",
     "searchable":1,
@@ -31,15 +31,15 @@
     },
     {
     "key": "drpy_js_厂长影视",
-    "name": "💢┃厂长影视┃请勿相信视频内广告",
+    "name": "┃厂长影视┃请勿相信视频内广告",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/厂长资源.js"
     },
     {
     "key": "csp_XBPQ_JOJO",
-    "name": "💢┃JOJO┃请勿相信视频内广告",
-    "playerType":"3",
+    "name": "┃JOJO┃请勿相信视频内广告",
+    "playerType":"1",
     "type": 3,
     "api": "csp_XBPQ",
     "searchable": 1,
@@ -57,7 +57,7 @@
     },
     {
     "key": "drpy_js_低端",
-    "name": "💢┃低端影视┃请勿相信视频内广告",
+    "name": "┃低端影视┃请勿相信视频内广告",
     "playerType":"2",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
@@ -65,43 +65,44 @@
     },
     {
     "key": "drpy_js_腾讯",
-    "name": "💢┃腾讯┃[官网]",
+    "name": "┃腾讯视频┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/腾讯.js"
     },
     {
     "key": "drpy_js_芒果",
-    "name": "💢┃芒果TV┃[官网]",
+    "name": "┃芒果TV┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/芒果.js"
     },
     {
     "key": "drpy_js_优酷",
-    "name": "💢┃优酷┃[官网]",
+    "name": "┃优酷视频┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/优酷.js"
     },
     {
     "key": "drpy_js_爱奇艺",
-    "name": "💢┃爱奇艺┃[官网]",
+    "name": "┃爱奇艺┃[官网]",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/爱奇艺.js"
     },
     {
     "key": "drpy_js_搜狗视频",
-    "name": "💢┃搜狗视频┃[官网]",
+    "name": "┃搜狗视频┃[官网]",
+    "playerType":"2",
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/搜狗视频.js"
     },
     {
     "key":"csp_PanSearch",
-    "name": "💢┃网盘搜索┃请勿相信视频内广告",
-    "playerType":"3",
+    "name": "┃网盘搜索┃请勿相信视频内广告",
+    "playerType":"1",
     "type": 3,
     "api": "csp_PanSearch",
     "searchable": 1,
@@ -110,15 +111,11 @@
     "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key":"csp_UpYun",
-    "name": "💢┃云盘搜索┃请勿相信视频内广告",
-    "playerType":"3",
+    "key": "drpy_js_农民影视",
+    "name": "┃农民影视┃请勿相信视频内广告",
     "type": 3,
-    "api": "csp_UpYun",
-    "searchable": 1,
-    "filterable": 1,
-    "changeable": 0,
-    "jar":"https://jxjson.cf/app.jar"
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/农民影视.js"
     },
     {
     "key":"drpy_js_虎牙",
@@ -155,6 +152,8 @@
     "name":"🎧┃广播┃电台",
     "type":3,
     "api":"https://bjson.cf/tvbox/drpymin.js",
+    "searchable": 0,
+    "quickSearch": 0,
     "changeable":0,
     "ext":"https://bjson.cf/tvbox/蜻蜓FM.js"
     },
@@ -212,10 +211,7 @@
     {
       "name": "虾米接口",
       "type": 0,
-      "url": "https://jx.xmflv.com/?url=",
-      "header":{
-      "User-Agent": "dart:io"
-    }
+      "url": "https://jx.xmflv.com/?url="
     }
   ],
 "rules": [
@@ -283,5 +279,5 @@
     "vip.ffzyad.com",
     "https://lf1-cdn-tos.bytegoofy.com/obj/tos-cn-i-dy/455ccf9e8ae744378118e4bd289288dd"
   ],
-"spider": "https://bjson.cf/tvbox/csp_xBPQ1.jar"
+"spider": "https://jxjson.cf/csp_xBPQ1.jar"
 }
