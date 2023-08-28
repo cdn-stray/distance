@@ -35,7 +35,7 @@
     "playerType":"1",
     "type": 1,
     "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod",
-    "playurl": "json:https://jxjson.cf/json.php?url=",
+    "playUrl": "json:https://jxjson.cf/json.php?url=",
     "searchable":1,
     "filterable": 1,
     "changeable":1
