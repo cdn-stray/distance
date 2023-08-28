@@ -40,16 +40,17 @@
     "filterable": 1,
     "changeable":1
     },
-            {
-            "key": "哔哩",
-            "name": "🍥哔哩哔哩",
+        {
+            "key": "csp_XYQHikerAL_阿里云盘网",
+            "name": "🌐阿里云盘",
             "type": 3,
-            "playerType": 2,
-            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
-            "searchable": 2,
-            "quickSearch": 0,
-            "filterable": 0,
-            "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/我的哔哩.js"
+            "playerType": 1,
+            "api": "csp_XPathAli",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/XBPQ/%E9%98%BF%E9%87%8C%E4%BA%91%E7%9B%98.json",
+          "jar":"https://jxjson.cf/app.jar"
         },
     {
     "key": "drpy_js_厂长影视",
