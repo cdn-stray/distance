@@ -30,10 +30,10 @@
     "jar":"https://jxjson.cf/app.jar"
     },
     {
-    "key": "csp_XPathAli",
+    "key": "csp_玉米资源",
     "name":"┃玉米影视┃请勿相信视频内广告",
     "playerType":"1",
-    "type": 3,
+    "type": 1,
     "api": "https://mdy.ahailove.cn/api.php/provide/vod/from/YuMi-vip/at/?ac=list",
     "playurl": "json:https://jxjson.cf/json.php?url=",
     "searchable":1,
