@@ -34,7 +34,7 @@
     "name":"┃玉米影视┃请勿相信视频内广告",
     "playerType":"1",
     "type": 1,
-    "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod",
+    "api": "http://mdy.ahailove.cn/api.php/provide/vod/from/YuMi-vip",
     "playUrl": "json:https://jxjson.cf/json.php?url=",
     "searchable":1,
     "filterable": 1,
