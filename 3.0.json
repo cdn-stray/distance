@@ -40,6 +40,17 @@
     "filterable": 1,
     "changeable":1
     },
+            {
+            "key": "哔哩",
+            "name": "🍥哔哩哔哩",
+            "type": 3,
+            "playerType": 2,
+            "api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js",
+            "searchable": 2,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/我的哔哩.js"
+        },
     {
     "key": "drpy_js_厂长影视",
     "name": "┃厂长影视┃请勿相信视频内广告",
