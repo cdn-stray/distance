@@ -37,16 +37,26 @@
     "ext": "https://bjson.cf/tvbox/厂长资源.js"
     },
     {
-    "key": "csp_XBPQ_JOJO",
-    "name": "┃JOJO┃请勿相信视频内广告",
-    "playerType":"1",
+    "key": "csp_Bdys",
+    "name": "┃哔嘀影视┃请勿相信视频内广告",
+    "playerType":"3",
     "type": 3,
-    "api": "csp_XBPQ",
+    "api": "csp_Bdys",
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "https://bjson.cf/tvbox/JOJO.json",
-    "jar": "https://jxjson.cf/csp_xBPQ.jar"
+    "jar": "https://jxjson.cf/XYQ.jar"
+    },
+    {
+    "key": "csp_玉米资源",
+    "name":"┃玉米影视┃请勿相信视频内广告",
+    "playerType":"1",
+    "type": 1,
+    "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod",
+    "playUrl": "json:https://jxjson.cf/json.php?url=",
+    "searchable":1,
+    "filterable": 1,
+    "changeable":1
     },
     {
     "key": "drpy_js_素白影视",
@@ -105,17 +115,6 @@
     "type": 3,
     "api": "https://bjson.cf/tvbox/drpymin.js",
     "ext": "https://bjson.cf/tvbox/农民影视.js"
-    },
-    {
-    "key": "csp_玉米资源",
-    "name":"┃玉米影视┃请勿相信视频内广告",
-    "playerType":"1",
-    "type": 1,
-    "api": "http://savviuux.hk3.345888.xyz.cdn.cloudflare.net/api.php/provide/vod",
-    "playUrl": "json:https://jxjson.cf/json.php?url=",
-    "searchable":1,
-    "filterable": 1,
-    "changeable":1
     },
     {
     "key":"csp_PanSearch",
