@@ -39,7 +39,7 @@
     {
     "key": "csp_Bdys",
     "name": "┃哔嘀影视┃请勿相信视频内广告",
-    "playerType":"3",
+    "playerType":"1",
     "type": 3,
     "api": "csp_Bdys",
     "searchable": 1,
