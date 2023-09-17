@@ -203,7 +203,7 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://jxjson.cf/json1.php?url=",
+      "url": "https://jxjson.cf/json.php?url=",
       "header":{
       "User-Agent": "ImgoMediaPlayerLib/com.starcor.mango.V6.0.901.383.3.DBEI_TVAPP.0.0_Release (Linux;Android 11(30)) mediacodecNative/0/5.1.1_2.21122401.20211224/imgofflib"
     }
