@@ -203,7 +203,7 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://jxjson.cf/json.php?url=",
+      "url": "https://jxjson.cf/json11.php?url=",
       "header":{
       "User-Agent": "dart:io"
     }
