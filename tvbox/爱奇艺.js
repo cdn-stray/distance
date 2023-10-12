@@ -20,9 +20,10 @@ var rule = {
     class_name:'电影&电视剧&纪录片&动漫&综艺&音乐&网络电影',
     class_url:'1&2&3&4&6&5&16',
     limit:20,
-    // play_parse:true,
+    play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
-    // lazy:'js:input="https://cache.json.icu/home/api?type=ys&uid=292796&key=fnoryABDEFJNPQV269&url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    lazy:'js:input={parse:1,jx:1,url:input};',
+     //lazy:'js:input="https://jxjson.cf/json_balabala.php?url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
     // 推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     // 一级:'json:.data.list;.name;.imageUrl;.latestOrder;.albumId',
     推荐:'',
