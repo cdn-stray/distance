@@ -3,7 +3,9 @@
     {
     "key": "drpy_js_豆瓣",
     "name": "🍥┃停止维护┃微信公众号：巴不巴拉🍥",
-    "type": 3
+    "type": 3,
+    "api": "https://bjson.cf/tvbox/drpymin.js",
+    "ext": "https://bjson.cf/tvbox/douban.js"
     }
   ]
 }
