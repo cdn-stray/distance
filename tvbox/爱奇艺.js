@@ -23,7 +23,7 @@ var rule = {
     play_parse:true,
     // 手动调用解析请求json的url,此lazy不方便
     lazy:'js:input={parse:1,jx:1,url:input};',
-     //lazy:'js:input="https://jxjson.cf/json_balabala.php?url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
+    // lazy:'js:input="https://jxjson.cf/ads.php?url="+input.split("?")[0];log(input);let html=JSON.parse(request(input));log(html);input=html.url||input',
     // 推荐:'.list_item;img&&alt;img&&src;a&&Text;a&&data-float',
     // 一级:'json:.data.list;.name;.imageUrl;.latestOrder;.albumId',
     推荐:'',
