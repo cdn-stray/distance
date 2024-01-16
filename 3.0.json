@@ -195,9 +195,9 @@
   ],
   "parses": [
     {
-      "name":"如果解析失败，请手动更换其它影视来源",
-      "type":3,
-      "url":"Demo"
+      "name": "Json聚合",
+      "type": 3,
+      "url": "Demo"
     },
     {
       "name": "Web聚合",
