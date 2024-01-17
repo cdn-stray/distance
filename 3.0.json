@@ -143,6 +143,28 @@
     "jar":"https://bjson.cf/pgali.jar"
     },
     {
+    "key":"csp_HunHePan",
+    "name":"┃阿里混合┃请勿相信视频内广告",
+    "type":3,
+    "api":"csp_HunHePan",
+    "searchable":1,
+    "quickSearch":1,
+    "changeable":1,
+    "filterable":0,
+    "timeout":60,
+    "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$null$$$1",
+    "jar":"https://jxjson.cf/pgali.jar"
+    },
+    {
+    "key":"csp_YunSou",
+    "name":"┃阿里云搜┃请勿相信视频内广告",
+    "type":3,
+    "api":"csp_UpYun",
+    "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
+    "timeout":30,
+    "jar":"https://jxjson.cf/pgali.jar"
+    },
+    {
     "key":"drpy_js_虎牙",
     "name":"🐅┃虎牙┃直播",
     "type":3,
