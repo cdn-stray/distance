@@ -153,7 +153,7 @@
     "filterable":0,
     "timeout":60,
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt$$$null$$$1",
-    "jar":"https://jxjson.cf/pgali.jar"
+    "jar":"https://bjson.cf/pgali.jar"
     },
     {
     "key":"csp_YunSou",
@@ -162,7 +162,7 @@
     "api":"csp_UpYun",
     "ext":"http://127.0.0.1:9978/file/tvbox/tok.txt",
     "timeout":30,
-    "jar":"https://jxjson.cf/pgali.jar"
+    "jar":"https://bjson.cf/pgali.jar"
     },
     {
     "key":"drpy_js_虎牙",
