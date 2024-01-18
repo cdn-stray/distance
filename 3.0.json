@@ -36,7 +36,8 @@
 			"api": "csp_Config",
 			"searchable": 0,
 			"changeable": 0,
-			"ext":"http://jxjson.cf/tvbox/PG推送.json"
+			"ext":"http://jxjson.cf/tvbox/PG推送.json",
+    "jar":"https://bjson.cf/pgali.jar"
 		},
     {
     "key":"csp_Wogg",
