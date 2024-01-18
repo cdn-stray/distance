@@ -29,16 +29,6 @@
     "changeable":0,
     "jar":"https://bjson.cf/alibaba.jar"
     },
-      		{
-			"key": "网盘配置",
-			"name": "网盘及彈幕配置",
-			"type": 3,
-			"api": "csp_Config",
-			"searchable": 0,
-			"changeable": 0,
-			"ext":"http://jxjson.cf/tvbox/PG推送.json",
-    "jar":"https://bjson.cf/pgali.jar"
-		},
     {
     "key":"csp_Wogg",
     "name":"┃阿里云盘┃请勿相信视频内广告",
