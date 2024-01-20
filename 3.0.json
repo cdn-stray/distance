@@ -239,7 +239,7 @@
     {
       "name": "巴拉接口",
       "type": 1,
-      "url": "https://jxjson.cf/ads.php?url=",
+      "url": "https://jxjson.cf/adss.php?url=",
       "header":{
       "User-Agent":"okhttp/4.1.0"
     }
