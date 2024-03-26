@@ -1,7 +1,0 @@
-{
-  "version": 2,
-  "routes": [
-    { "handle": "filesystem" },
-    { "src": "/balabala", "status": 200, "dest": "/3.0.json" }
-  ]
-}
