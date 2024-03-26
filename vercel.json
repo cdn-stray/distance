@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "index.js" 
+      "dest": "http://s0.v100.vip:27189/TXls.php?url=$1" 
     }
   ]
 }
