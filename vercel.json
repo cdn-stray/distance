@@ -10,6 +10,10 @@
     {
       "src": "/balabala",
       "dest": "https://jxjson.icu/balabala" 
+    },
+    {
+      "src": "/(.*)",
+      "dest": "https://api.jxjson.icu/index.html" 
     }
   ]
 }
