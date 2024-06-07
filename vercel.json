@@ -8,8 +8,8 @@
   ],
   "routes": [
     {
-      "src": "/balabala",
-      "dest": "https://jxjson.icu/$1" 
+      "src": "/(.*)",
+      "dest": "https://api.jxjson.icu/$1" 
     }
   ]
 }
